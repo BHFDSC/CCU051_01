@@ -1,32 +1,22 @@
-# BHF Data Science Centre research project template
-
-This is a template repository used by the BHF Data Science Centre team when creating new repositories for single-nation CVD-COVID-UK/COVID-IMPACT projects.
-
-# Project name
+# Under-vaccination and severe COVID-19 outcomes: meta-analysis of national cohort studies of over 64 million people in England, Northern Ireland, Scotland and Wales
 
 ## Project description
 
-Description will be added here.
+Receiving fewer than the recommended number of SARS-CoV-2 vaccines doses (under-vaccination) may be associated with poorer COVID-19 outcomes. We sought to determine the factors associated with under-vaccination, and the risk of hospitalisation or death after COVID-19 in people who were under-vaccinated in each of the UK nations, and across the UK population.
 
 ## How to cite this work
 > Citation details to follow
 
 ## Contents
 
-* [View the analysis code used in NHS England's TRE for England](https://github.com/BHFDSC/CCU0XX_XX/tree/main/code)
-* [View the phenotyping algorithms and codelists used in NHS England's TRE for England](https://github.com/BHFDSC/CCU0XX_XX/tree/main/phenotypes)
-
-* [View the analysis code used in the Scottish National Safe Haven](https://github.com/BHFDSC/CCU0XX_XX/tree/main/code)
-* [View the phenotyping algorithms and codelists used in the Scottish National Safe Haven](https://github.com/BHFDSC/CCU0XX_XX/tree/main/phenotypes)
-
-* [View the analysis code used in the SAIL Databank](https://github.com/BHFDSC/CCU0XX_XX/tree/main/code)
-* [View the phenotyping algorithms and codelists used in the SAIL Databank](https://github.com/BHFDSC/CCU0XX_XX/tree/main/phenotypes)
+* [View the analysis code used in NHS England's TRE for England](https://github.com/BHFDSC/CCU051_01/tree/main/code)
+* [View the phenotyping algorithms and codelists used in NHS England's TRE for England](https://github.com/BHFDSC/CCU051_01/tree/main/phenotypes)
+* [View the analysis code and phenotypes used in the Safe Haven](https://github.com/HDRUK/COALESCE)
+* View the analysis code and phenotypes used in the SAIL Databank
 
 ## Project approval
 
-This project has been approved by the CVD-COVID-UK / COVID-IMPACT Approvals & Oversight Board (project: CCUXXX_XX).
-
-This is a sub-project of [project CCU0XX](https://github.com/BHFDSC/CCU0XX) approved by the CVD-COVID-UK / COVID-IMPACT Approvals & Oversight Board (sub-project: CCU0XX_XX).
+This is a sub-project of [project CCU051](https://github.com/BHFDSC/CCU051) approved by the CVD-COVID-UK / COVID-IMPACT Approvals & Oversight Board (sub-project: CCU051_01) and forms part of the wider [COALESCE study](https://www.hdruk.ac.uk/projects/coalesce/).
 
 ## License
 
