@@ -4,6 +4,8 @@
 
 Receiving fewer than the recommended number of SARS-CoV-2 vaccines doses (under-vaccination) may be associated with poorer COVID-19 outcomes. We sought to determine the factors associated with under-vaccination, and the risk of hospitalisation or death after COVID-19 in people who were under-vaccinated in each of the UK nations, and across the UK population.
 
+The BHF Data Science Centre supported access to the English data only for this project.
+
 ## How to cite this work
 > Citation details to follow
 
