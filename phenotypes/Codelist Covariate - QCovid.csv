@@ -1,0 +1,1001 @@
+name,terminology,code,term,name_orig
+qcovid_PrescribedImmunoSupp,DMD,703788008,Product containing precisely teriflunomide 14 milligram/1 each conventional release oral tablet (clinical drug),PrescribedImmunoSuppressants
+qcovid_PrescribedImmunoSupp,DMD,327090002,Product containing precisely ciclosporin 10 milligram/1 each conventional release oral capsule (clinical drug),PrescribedImmunoSuppressants
+qcovid_CancerOfBloodOrBoneM,SNOMED,188515006,Burkitt tumor of intrapelvic lymph nodes,CancerOfBloodOrBoneMarrow
+qcovid_CongenitalHeartProbl,SNOMED,204448004,Atresia of pulmonary artery with septal defect (disorder),CongenitalHeartProblem
+qcovid_ParkinsonsDisease,SNOMED,230292008,Secondary parkinsonism (disorder),ParkinsonsDisease
+qcovid_SevereCombinedImmuno,SNOMED,25109007,Lymphopenic agammaglobulinemia - short-limbed dwarfism syndrome (disorder),SevereCombinedImmunodeficiencySyndromeViaBool
+qcovid_CancerOfBloodOrBoneM,SNOMED,277654008,Enteropathy-associated T-cell lymphoma (disorder),CancerOfBloodOrBoneMarrow
+qcovid_LungOrOralCancer,SNOMED,363390005,Malignant tumor of palate (disorder),LungOrOralCancer
+qcovid_BipolarDiseaseOrSchi,SNOMED,371596008,Bipolar I disorder (disorder),BipolarDiseaseOrSchizophrenia
+qcovid_CongenitalHeartProbl,SNOMED,63934006,Overriding aorta (disorder),CongenitalHeartProblem
+qcovid_CongenitalHeartProbl,SNOMED,66403007,Vascular ring of aorta (disorder),CongenitalHeartProblem
+qcovid_MotorNeuroneDiseaseO,SNOMED,86044005,Amyotrophic lateral sclerosis (disorder),MotorNeuroneDiseaseOrMultipleSclerosisOrMyaestheniaOrHuntingtonsChorea
+qcovid_Epilepsy,SNOMED,193003000,Mesiobasal limbic epilepsy (disorder),Epilepsy
+qcovid_Diabetes,SNOMED,420436000,Mononeuropathy due to type 2 diabetes mellitus (disorder),Diabetes
+qcovid_MotorNeuroneDiseaseO,SNOMED,54304004,Progressive bulbar palsy (disorder),MotorNeuroneDiseaseOrMultipleSclerosisOrMyaestheniaOrHuntingtonsChorea
+qcovid_CancerOfBloodOrBoneM,SNOMED,93151007,Hairy cell leukemia of spleen (disorder),CancerOfBloodOrBoneMarrow
+qcovid_ChronicKidneyDisease,SNOMED,950251000000106,Chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A1 (disorder),ChronicKidneyDisease
+qcovid_SolidOrganTransplant,OPCS4,Y018,Other specified replacement of organ NOC,SolidOrganTransplant/SolidOrganTransplantOrBoneMarrowTransplantInLast6Months
+qcovid_SolidOrganTransplant,OPCS4,Y019,Unspecified replacement of organ NOC,SolidOrganTransplant/SolidOrganTransplantOrBoneMarrowTransplantInLast6Months
+qcovid_PrescribedImmunoSupp,DMD,17665811000001108,Capimune 100mg capsules (Viatris UK Healthcare Ltd) (product),PrescribedImmunoSuppressants
+qcovid_SevereCombinedImmuno,SNOMED,191008001,Immunodeficiency following hereditary defective response to Epstein-Barr virus (disorder),SevereCombinedImmunodeficiencySyndromeViaBool
+qcovid_RheumatoidArthritisO,SNOMED,201779000,Rheumatoid arthritis of ankle (disorder),RheumatoidArthritisOrSle
+qcovid_Dementia,SNOMED,230273006,Frontotemporal degeneration (disorder),Dementia
+qcovid_Epilepsy,SNOMED,241006,Epilepsia partialis continua (disorder),Epilepsy
+qcovid_Dementia,SNOMED,442344002,Dementia due to Huntington chorea (disorder),Dementia
+qcovid_BipolarDiseaseOrSchi,SNOMED,765176007,Psychosis and severe depression co-occurrent and due to bipolar affective disorder (disorder),BipolarDiseaseOrSchizophrenia
+qcovid_PrescribedImmunoSupp,DMD,8077011000001100,Mycophenolic acid 360mg gastro-resistant tablets (product),PrescribedImmunoSuppressants
+qcovid_CancerOfBloodOrBoneM,ICD10,C924,Acute promyelocytic leukaemia [PML],CancerOfBloodOrBoneMarrow
+qcovid_CancerOfBloodOrBoneM,ICD10,C965,Multifocal and unisystemic Langerhans-cell histiocytosis,CancerOfBloodOrBoneMarrow
+qcovid_LearningDisabilityOr,ICD10,F800,Specific speech articulation disorder,LearningDisabilityOrDownsSyndrome
+qcovid_Dementia,ICD10,G30,Alzheimer disease,Dementia
+qcovid_PeripheralVascularDi,ICD10,I731,Thromboangiitis obliterans [Buerger],PeripheralVascularDisease
+qcovid_RheumatoidArthritisO,ICD10,M0522,Rheumatoid vasculitis,RheumatoidArthritisOrSle
+qcovid_CongenitalHeartProbl,ICD10,Q256,Stenosis of pulmonary artery,CongenitalHeartProblem
+qcovid_PriorFractureOfHipWr,ICD10,S525,Fracture of lower end of radius,PriorFractureOfHipWristSpineHumerus
+qcovid_PrescribedImmunoSupp,DMD,4091011000001100,Rapamune 1mg/ml oral solution (Wyeth Laboratories) (product),PrescribedImmunoSuppressants
+qcovid_PrescribedImmunoSupp,DMD,7694211000001105,Mabcampath 30mg/3ml solution for injection ampoules (Schering Health Care Ltd) (product),PrescribedImmunoSuppressants
+qcovid_PrescribedImmunoSupp,DMD,28947711000001108,Tacrolimus 750microgram capsules (product),PrescribedImmunoSuppressants
+qcovid_TakingAntiLeukotrien,DMD,22650111000001100,Vertine 25micrograms/dose inhaler CFC free (Teva UK Ltd) (product),TakingAntiLeukotrieneOrLaba
+qcovid_PrescribedImmunoSupp,DMD,24565711000001104,Alemtuzumab 12mg/1.2ml solution for infusion vials (product),PrescribedImmunoSuppressants
+qcovid_PrescribedImmunoSupp,DMD,318611000001108,Immunoprin 50mg tablets (Ashbourne Pharmaceuticals Ltd) (product),PrescribedImmunoSuppressants
+qcovid_TakingAntiLeukotrien,DMD,3243511000001107,Oxis Turbohaler 6 (AstraZeneca) (product),TakingAntiLeukotrieneOrLaba
+qcovid_Copd,SNOMED,313297008,Moderate chronic obstructive pulmonary disease (disorder),Copd
+qcovid_ChronicKidneyDisease,SNOMED,324471000000100,Chronic kidney disease stage 4 without proteinuria (disorder),ChronicKidneyDisease
+qcovid_LungOrOralCancer,SNOMED,363382005,Malignant tumor of gum (disorder),LungOrOralCancer
+qcovid_CongenitalHeartProbl,SNOMED,36422005,Transposition of pulmonary veins (disorder),CongenitalHeartProblem
+qcovid_LungOrOralCancer,SNOMED,430621000,Malignant neoplasm of lower respiratory tract (disorder),LungOrOralCancer
+qcovid_Epilepsy,SNOMED,79745005,Reflex epilepsy (disorder),Epilepsy
+qcovid_CancerOfBloodOrBoneM,SNOMED,188666005,Mast cell malignancy of lymph nodes of inguinal region and lower limb (disorder),CancerOfBloodOrBoneMarrow
+qcovid_BipolarDiseaseOrSchi,SNOMED,191561004,Subchronic latent schizophrenia (disorder),BipolarDiseaseOrSchizophrenia
+qcovid_CongenitalHeartProbl,SNOMED,204319006,Lutembacher's syndrome (disorder),CongenitalHeartProblem
+qcovid_Diabetes,SNOMED,26298008,Ketoacidotic coma due to diabetes mellitus (disorder),Diabetes
+qcovid_ChronicKidneyDisease,SNOMED,324541000000105,Chronic kidney disease stage 5 without proteinuria (disorder),ChronicKidneyDisease
+qcovid_Epilepsy,SNOMED,7033004,Absence status epilepticus (finding),Epilepsy
+qcovid_CongenitalHeartProbl,OPCS4,K115,Revision of repair of defect of interventricular septum,CongenitalHeartProblem
+qcovid_CongenitalHeartProbl,SNOMED,204299009,Dextrotransposition of aorta (disorder),CongenitalHeartProblem
+qcovid_CongenitalHeartProbl,SNOMED,204456001,Subdiaphragmatic total anomalous pulmonary venous return (disorder),CongenitalHeartProblem
+qcovid_Asthma,SNOMED,225057002,Brittle asthma (disorder),Asthma
+qcovid_Diabetes,SNOMED,237632004,Hypoglycemic event due to diabetes,Diabetes
+qcovid_CongenitalHeartProbl,SNOMED,36110001,Congenital anomaly of pulmonary artery (disorder),CongenitalHeartProblem
+qcovid_LungOrOralCancer,SNOMED,363383000,Malignant tumor of upper gingiva (disorder),LungOrOralCancer
+qcovid_Dementia,SNOMED,52448006,Dementia (disorder),Dementia
+qcovid_PrescribedImmunoSupp,DMD,28947611000001104,Tacrolimus 2mg capsules (product),PrescribedImmunoSuppressants
+qcovid_TakingAntiLeukotrien,DMD,31087511000001105,Beclometasone 200micrograms/dose / Formoterol 6micrograms/dose dry powder inhaler (product),TakingAntiLeukotrieneOrLaba
+qcovid_TakingAntiLeukotrien,DMD,38897611000001100,Fluticasone propionate 100micrograms/dose / Salmeterol 50micrograms/dose dry powder inhaler (product),TakingAntiLeukotrieneOrLaba
+qcovid_CancerOfBloodOrBoneM,ICD10,C862,Enteropathy-type (intestinal) T-cell lymphoma,CancerOfBloodOrBoneMarrow
+qcovid_BipolarDiseaseOrSchi,ICD10,F302,Mania with psychotic symptoms,BipolarDiseaseOrSchizophrenia
+qcovid_CoronaryHeartDisease,ICD10,I210,Acute transmural myocardial infarction of anterior wall,CoronaryHeartDisease
+qcovid_PulmonaryHypertensio,ICD10,J841,Other interstitial pulmonary diseases with fibrosis,PulmonaryHypertensionOrFibrosis
+qcovid_CancerOfBloodOrBoneM,ICD10,C960,Multifocal and multisystemic (disseminated) Langerhans-cell histiocytosis [Letterer-Siwe disease],CancerOfBloodOrBoneMarrow
+qcovid_PriorFractureOfHipWr,ICD10,M4842,Fatigue fracture of vertebra,PriorFractureOfHipWristSpineHumerus
+qcovid_PrescribedOralSteroi,DMD,28799811000001108,Pevanti 25mg tablets (AMCo) (product),PrescribedOralSteroids
+qcovid_TakingAntiLeukotrien,DMD,35937811000001108,Salmeterol 50microgram inhalation powder blisters with device (product),TakingAntiLeukotrieneOrLaba
+qcovid_Dementia,ICD10,F001,Dementia in Alzheimer disease with late onset,Dementia
+qcovid_CoronaryHeartDisease,ICD10,I253,Aneurysm of heart,CoronaryHeartDisease
+qcovid_RheumatoidArthritisO,ICD10,M0508,Felty syndrome,RheumatoidArthritisOrSle
+qcovid_PriorFractureOfHipWr,ICD10,M4847,Fatigue fracture of vertebra,PriorFractureOfHipWristSpineHumerus
+qcovid_PriorFractureOfHipWr,ICD10,S720,Fracture of neck of femur,PriorFractureOfHipWristSpineHumerus
+qcovid_CancerOfBloodOrBoneM,ICD10,C847,"Anaplastic large cell lymphoma, ALK-negative",CancerOfBloodOrBoneMarrow
+qcovid_CancerOfBloodOrBoneM,ICD10,C944,Acute panmyelosis with myelofibrosis,CancerOfBloodOrBoneMarrow
+qcovid_Diabetes,ICD10,E104,Type 1 diabetes mellitus,Diabetes
+qcovid_RheumatoidArthritisO,ICD10,M320,Drug-induced systemic lupus erythematosus,RheumatoidArthritisOrSle
+qcovid_HivOrAids,ICD10,B207,HIV disease resulting in multiple infections,HivOrAids
+qcovid_StrokeOrTia,ICD10,G459,"Transient cerebral ischaemic attack, unspecified",StrokeOrTia
+qcovid_PeripheralVascularDi,ICD10,I739,"Peripheral vascular disease, unspecified",PeripheralVascularDisease
+qcovid_RheumatoidArthritisO,ICD10,M0623,Rheumatoid bursitis,RheumatoidArthritisOrSle
+qcovid_CongenitalHeartProbl,OPCS4,K128,Other specified repair of defect of unspecified septum of heart,CongenitalHeartProblem
+qcovid_RadioTherapyInLast6M,OPCS4,Y918,Other specified external beam radiotherapy,RadioTherapyInLast6Months
+qcovid_SevereCombinedImmuno,SNOMED,119250001,Hypogammaglobulinemia (finding),SevereCombinedImmunodeficiencySyndromeViaBool
+qcovid_LungOrOralCancer,SNOMED,187698002,Malignant tumor of opening of auditory tube (disorder),LungOrOralCancer
+qcovid_CancerOfBloodOrBoneM,SNOMED,188562004,Hodgkin's disease lymphocytic-histiocytic predominance of lymph nodes of multiple sites (disorder),CancerOfBloodOrBoneMarrow
+qcovid_CancerOfBloodOrBoneM,SNOMED,188586002,Hodgkin's disease lymphocytic depletion of intrathoracic lymph nodes (disorder),CancerOfBloodOrBoneMarrow
+qcovid_Diabetes,SNOMED,190330002,Hyperosmolar coma due to type 1 diabetes mellitus (disorder),Diabetes
+qcovid_SevereCombinedImmuno,SNOMED,191013002,Common variable immunodeficiency with autoantibodies to B- or T-cells (disorder),SevereCombinedImmunodeficiencySyndromeViaBool
+qcovid_BipolarDiseaseOrSchi,SNOMED,191555002,Acute exacerbation of chronic paranoid schizophrenia (disorder),BipolarDiseaseOrSchizophrenia
+qcovid_Epilepsy,SNOMED,192990004,Benign myoclonic epilepsy in infancy (disorder),Epilepsy
+qcovid_Copd,SNOMED,195953005,Mixed simple and mucopurulent chronic bronchitis (disorder),Copd
+qcovid_CongenitalHeartProbl,SNOMED,204345002,Congenital fusion of pulmonic cusps (disorder),CongenitalHeartProblem
+qcovid_Epilepsy,SNOMED,230429005,Early infantile epileptic encephalopathy with suppression bursts (disorder),Epilepsy
+qcovid_LungOrOralCancer,SNOMED,187675005,Malignant tumor of tonsillar pillar (disorder),LungOrOralCancer
+qcovid_CoronaryHeartDisease,SNOMED,194862000,Hemopericardium due to and following acute myocardial infarction (disorder),CoronaryHeartDisease
+qcovid_LiverCirrhosis,SNOMED,197362001,Toxic liver disease with fibrosis and cirrhosis of liver (disorder),LiverCirrhosis
+qcovid_CongenitalHeartProbl,SNOMED,205769006,Isolated levocardia,CongenitalHeartProblem
+qcovid_Asthma,SNOMED,312453004,Asthma - currently active (finding),Asthma
+qcovid_CongenitalHeartProbl,SNOMED,36233006,Congenital stenosis of tricuspid valve (disorder),CongenitalHeartProblem
+qcovid_Asthma,SNOMED,407674008,Aspirin-induced asthma (disorder),Asthma
+qcovid_Diabetes,SNOMED,422166005,Peripheral circulatory disorder due to type 2 diabetes mellitus (disorder),Diabetes
+qcovid_MotorNeuroneDiseaseO,SNOMED,88923002,Progressive muscular atrophy (disorder),MotorNeuroneDiseaseOrMultipleSclerosisOrMyaestheniaOrHuntingtonsChorea
+qcovid_HivOrAids,SNOMED,943041000000105,Human immunodeficiency virus disease resulting in haematological and immunological abnormalities (disorder),HivOrAids
+qcovid_LungOrOralCancer,SNOMED,187692001,Malignant tumor of nasopharynx (disorder),LungOrOralCancer
+qcovid_Diabetes,SNOMED,190407009,Malnutrition-related diabetes mellitus with renal complications (disorder),Diabetes
+qcovid_Diabetes,SNOMED,190416008,Steroid-induced diabetes mellitus without complication (disorder),Diabetes
+qcovid_Copd,SNOMED,196001008,Chronic obstructive pulmonary disease with acute lower respiratory infection (disorder),Copd
+qcovid_RheumatoidArthritisO,SNOMED,201780002,Rheumatoid arthritis of subtalar joint (disorder),RheumatoidArthritisOrSle
+qcovid_Epilepsy,SNOMED,361268000,Alcohol-induced epilepsy (disorder),Epilepsy
+qcovid_Diabetes,SNOMED,420756003,Cataract of eye due to diabetes mellitus type 2 (disorder),Diabetes
+qcovid_HeartFailure,SNOMED,421704003,New York Heart Association Classification - Class II (finding),HeartFailure
+qcovid_CongenitalHeartProbl,SNOMED,67278007,Congenital stenosis of pulmonary valve (disorder),CongenitalHeartProblem
+qcovid_BipolarDiseaseOrSchi,SNOMED,68890003,Schizoaffective disorder (disorder),BipolarDiseaseOrSchizophrenia
+qcovid_CancerOfBloodOrBoneM,SNOMED,109992005,Polycythemia vera (disorder),CancerOfBloodOrBoneMarrow
+qcovid_CancerOfBloodOrBoneM,SNOMED,109995007,Myelodysplastic syndrome (disorder),CancerOfBloodOrBoneMarrow
+qcovid_LearningDisabilityOr,SNOMED,110359009,Intellectual disability (disorder),LearningDisabilityOrDownsSyndrome
+qcovid_BipolarDiseaseOrSchi,SNOMED,191620005,Bipolar affective disorder currently manic mild (disorder),BipolarDiseaseOrSchizophrenia
+qcovid_CancerOfBloodOrBoneM,SNOMED,277641001,Follicular malignant lymphoma - large cell (disorder),CancerOfBloodOrBoneMarrow
+qcovid_Epilepsy,SNOMED,307356008,Motor epilepsy (disorder),Epilepsy
+qcovid_Diabetes,SNOMED,314903002,Arthropathy due to type 2 diabetes mellitus (disorder),Diabetes
+qcovid_Diabetes,SNOMED,314904008,Type II diabetes mellitus with neuropathic arthropathy (disorder),Diabetes
+qcovid_SevereCombinedImmuno,SNOMED,50926003,Job's syndrome (disorder),SevereCombinedImmunodeficiencySyndromeViaBool
+qcovid_Asthma,SNOMED,866881000000101,Chronic asthma with fixed airflow obstruction (disorder),Asthma
+qcovid_SolidOrganTransplant,OPCS4,Y016,Alloreplacement of organ from cadaver NOC,SolidOrganTransplant/SolidOrganTransplantOrBoneMarrowTransplantInLast6Months
+qcovid_TakingAntiLeukotrien,DMD,863011000001109,Singulair Paediatric 4mg chewable tablets (Organon Pharma (UK) Ltd) (product),TakingAntiLeukotrieneOrLaba
+qcovid_CancerOfBloodOrBoneM,SNOMED,188633006,Sézary's disease of lymph nodes of axilla and upper limb (disorder),CancerOfBloodOrBoneMarrow
+qcovid_LiverCirrhosis,SNOMED,197305002,Syphilitic portal cirrhosis (disorder),LiverCirrhosis
+qcovid_CongenitalHeartProbl,SNOMED,204318003,Persistent ostium secundum (disorder),CongenitalHeartProblem
+qcovid_SevereCombinedImmuno,SNOMED,44940001,Adenosine deaminase deficiency (disorder),SevereCombinedImmunodeficiencySyndromeViaBool
+qcovid_Diabetes,SNOMED,713706002,Polyneuropathy due to type 2 diabetes mellitus (disorder),Diabetes
+qcovid_PrescribedImmunoSupp,DMD,8308411000001102,Azathioprine 50mg/5ml oral suspension (product),PrescribedImmunoSuppressants
+qcovid_TakingAntiLeukotrien,DMD,34952211000001104,Trelegy Ellipta 92micrograms/dose / 55micrograms/dose / 22micrograms/dose dry powder inhaler (GlaxoSmithKline UK Ltd) (product),TakingAntiLeukotrieneOrLaba
+qcovid_PrescribedImmunoSupp,DMD,8077811000001106,Myfortic 360mg gastro-resistant tablets (Novartis Pharmaceuticals UK Ltd) (product),PrescribedImmunoSuppressants
+qcovid_LungOrOralCancer,SNOMED,187693006,Malignant tumor of posterior wall of nasopharynx (disorder),LungOrOralCancer
+qcovid_Diabetes,SNOMED,25093002,Disorder of eye due to diabetes mellitus (disorder),Diabetes
+qcovid_Dementia,SNOMED,416975007,Primary degenerative dementia of the Alzheimer type senile onset (disorder),Dementia
+qcovid_BipolarDiseaseOrSchi,SNOMED,84760002,Schizoaffective disorder depressive type (disorder),BipolarDiseaseOrSchizophrenia
+qcovid_CancerOfBloodOrBoneM,SNOMED,95192000,Nodular lymphoma of lymph nodes of multiple sites (disorder),CancerOfBloodOrBoneMarrow
+qcovid_BipolarDiseaseOrSchi,ICD10,F319,"Bipolar affective disorder, unspecified",BipolarDiseaseOrSchizophrenia
+qcovid_CoronaryHeartDisease,ICD10,I236,"Thrombosis of atrium, auricular appendage, and ventricle as current complications following acute myocardial infarction",CoronaryHeartDisease
+qcovid_CongenitalHeartProbl,ICD10,Q254,Other congenital malformations of aorta,CongenitalHeartProblem
+qcovid_CancerOfBloodOrBoneM,SNOMED,449108003,Philadelphia chromosome positive chronic myelogenous leukemia (disorder),CancerOfBloodOrBoneMarrow
+qcovid_Diabetes,SNOMED,4855003,Retinopathy due to diabetes mellitus (disorder),Diabetes
+qcovid_ChronicKidneyDisease,SNOMED,950311000000102,Chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A3 (disorder),ChronicKidneyDisease
+qcovid_Dementia,SNOMED,191451009,Uncomplicated presenile dementia (disorder),Dementia
+qcovid_BipolarDiseaseOrSchi,SNOMED,191592002,Recurrent manic episodes mild (disorder),BipolarDiseaseOrSchizophrenia
+qcovid_LiverCirrhosis,SNOMED,197296006,Capsular portal cirrhosis (disorder),LiverCirrhosis
+qcovid_CoronaryHeartDisease,SNOMED,25106000,Impending infarction (disorder),CoronaryHeartDisease
+qcovid_LungOrOralCancer,SNOMED,363375006,Malignant tumor of tongue (disorder),LungOrOralCancer
+qcovid_Asthma,SNOMED,370220003,Occasional asthma (disorder),Asthma
+qcovid_CancerOfBloodOrBoneM,SNOMED,91855006,Acute leukemia disease (disorder),CancerOfBloodOrBoneMarrow
+qcovid_RadioTherapyInLast6M,OPCS4,Y361,Introduction of gold seeds into organ NOC,RadioTherapyInLast6Months
+qcovid_BipolarDiseaseOrSchi,ICD10,F200,Paranoid schizophrenia,BipolarDiseaseOrSchizophrenia
+qcovid_BipolarDiseaseOrSchi,ICD10,F30,Manic episode,BipolarDiseaseOrSchizophrenia
+qcovid_LearningDisabilityOr,ICD10,F812,Specific disorder of arithmetical skills,LearningDisabilityOrDownsSyndrome
+qcovid_InflammatoryBowelDis,ICD10,K518,Other ulcerative colitis,InflammatoryBowelDisease
+qcovid_RheumatoidArthritisO,ICD10,M0528,Rheumatoid vasculitis,RheumatoidArthritisOrSle
+qcovid_RheumatoidArthritisO,ICD10,M0687,Other specified rheumatoid arthritis,RheumatoidArthritisOrSle
+qcovid_RadioTherapyInLast6M,OPCS4,C395,Radiotherapy to lesion of conjunctiva,RadioTherapyInLast6Months
+qcovid_CongenitalHeartProbl,OPCS4,K119,Unspecified repair of defect of interventricular septum,CongenitalHeartProblem
+qcovid_SolidOrganTransplant,OPCS4,Y012,Alloreplacement of organ NOC,SolidOrganTransplant/SolidOrganTransplantOrBoneMarrowTransplantInLast6Months
+qcovid_CancerOfBloodOrBoneM,ICD10,C928,Acute myeloid leukaemia with multilineage dysplasia,CancerOfBloodOrBoneMarrow
+qcovid_Diabetes,ICD10,E124,Malnutrition-related diabetes mellitus,Diabetes
+qcovid_Copd,ICD10,J431,Panlobular emphysema,Copd
+qcovid_RheumatoidArthritisO,ICD10,M0520,Rheumatoid vasculitis,RheumatoidArthritisOrSle
+qcovid_CongenitalHeartProbl,ICD10,Q878,"Other specified congenital malformation syndromes, not elsewhere classified",CongenitalHeartProblem
+qcovid_BipolarDiseaseOrSchi,SNOMED,270901009,Schizoaffective disorder mixed type (disorder),BipolarDiseaseOrSchizophrenia
+qcovid_CancerOfBloodOrBoneM,SNOMED,277473004,B-cell chronic lymphocytic leukemia (disorder),CancerOfBloodOrBoneMarrow
+qcovid_Asthma,SNOMED,41553006,Detergent asthma (disorder),Asthma
+qcovid_CancerOfBloodOrBoneM,SNOMED,93145002,Leukemic reticuloendotheliosis of intrapelvic lymph nodes (disorder),CancerOfBloodOrBoneMarrow
+qcovid_CancerOfBloodOrBoneM,SNOMED,95186006,Nodular lymphoma of intra-abdominal lymph nodes (disorder),CancerOfBloodOrBoneMarrow
+qcovid_SolidOrganTransplant,OPCS4,G261,Allotransplantation of stomach,SolidOrganTransplant/SolidOrganTransplantOrBoneMarrowTransplantInLast6Months
+qcovid_CongenitalHeartProbl,OPCS4,L082,Creation of anastomosis to left pulmonary artery from left subclavian artery NEC,CongenitalHeartProblem
+qcovid_HivOrAids,SNOMED,62479008,Acquired immune deficiency syndrome (disorder),HivOrAids
+qcovid_BipolarDiseaseOrSchi,SNOMED,764591000000108,Mixed bipolar affective disorder severe (disorder),BipolarDiseaseOrSchizophrenia
+qcovid_CongenitalHeartProbl,SNOMED,79439001,Congenital anomaly of aortic arch (disorder),CongenitalHeartProblem
+qcovid_Dementia,SNOMED,80098002,Diffuse Lewy body disease (disorder),Dementia
+qcovid_Diabetes,ICD10,E127,Malnutrition-related diabetes mellitus,Diabetes
+qcovid_Epilepsy,ICD10,G404,Other generalized epilepsy and epileptic syndromes,Epilepsy
+qcovid_RheumatoidArthritisO,ICD10,M0534,Rheumatoid arthritis with involvement of other organs and systems,RheumatoidArthritisOrSle
+qcovid_PriorFractureOfHipWr,ICD10,M4846,Fatigue fracture of vertebra,PriorFractureOfHipWristSpineHumerus
+qcovid_Copd,SNOMED,13645005,Chronic obstructive lung disease (disorder),Copd
+qcovid_Epilepsy,SNOMED,192979009,Generalized non-convulsive epilepsy (disorder),Epilepsy
+qcovid_StrokeOrTia,SNOMED,195199008,Vertebrobasilar artery syndrome (disorder),StrokeOrTia
+qcovid_HeartFailure,SNOMED,367363000,Right ventricular failure (disorder),HeartFailure
+qcovid_CoronaryHeartDisease,SNOMED,414545008,Ischemic heart disease (disorder),CoronaryHeartDisease
+qcovid_HivOrAids,ICD10,B221,HIV disease resulting in lymphoid interstitial pneumonitis,HivOrAids
+qcovid_LungOrOralCancer,ICD10,C000,Malignant neoplasm: External upper lip,LungOrOralCancer
+qcovid_Diabetes,ICD10,E105,Type 1 diabetes mellitus,Diabetes
+qcovid_Diabetes,ICD10,E136,Other specified diabetes mellitus,Diabetes
+qcovid_LiverCirrhosis,ICD10,K745,"Biliary cirrhosis, unspecified",LiverCirrhosis
+qcovid_RadioTherapyInLast6M,OPCS4,A613,Radiotherapy to lesion of peripheral nerve,RadioTherapyInLast6Months
+qcovid_CongenitalHeartProbl,OPCS4,K182,Creation of valved conduit between right atrium and pulmonary artery,CongenitalHeartProblem
+qcovid_TakingAntiLeukotrien,DMD,320258002,Product containing precisely bambuterol hydrochloride 10 milligram/1 each conventional release oral tablet (clinical drug),TakingAntiLeukotrieneOrLaba
+qcovid_CongenitalHeartProbl,OPCS4,K05,** first length 4 code ** Reconstruction of atrium using atrial patch for transposition of great arteries,CongenitalHeartProblem
+qcovid_PrescribedImmunoSupp,DMD,38588911000001105,Ruxience 500mg/50ml concentrate for solution for infusion vials (Pfizer Ltd) (product),PrescribedImmunoSuppressants
+qcovid_SolidOrganTransplant,OPCS4,E539,Unspecified transplantation of lung,SolidOrganTransplant/SolidOrganTransplantOrBoneMarrowTransplantInLast6Months
+qcovid_PrescribedImmunoSupp,DMD,19265811000001103,Arzerra 1000mg/50ml concentrate for solution for infusion vials (GlaxoSmithKline UK Ltd) (product),PrescribedImmunoSuppressants
+qcovid_PrescribedImmunoSupp,DMD,25091211000001101,Siltuximab 400mg powder for solution for infusion vials (product),PrescribedImmunoSuppressants
+qcovid_PrescribedImmunoSupp,DMD,4881311000001100,CellCept 1g/5ml oral suspension (Roche Products Ltd) (product),PrescribedImmunoSuppressants
+qcovid_PrescribedImmunoSupp,DMD,656111000001103,Prograf 500microgram capsules (Fujisawa Ltd) (product),PrescribedImmunoSuppressants
+qcovid_CancerOfBloodOrBoneM,SNOMED,188538009,Hodgkin's granuloma of lymph nodes of inguinal region and lower limb (disorder),CancerOfBloodOrBoneMarrow
+qcovid_PulmonaryHypertensio,SNOMED,196125002,Diffuse interstitial pulmonary fibrosis (disorder),PulmonaryHypertensionOrFibrosis
+qcovid_StrokeOrTia,SNOMED,230700009,Pure sensory lacunar infarction (disorder),StrokeOrTia
+qcovid_CongenitalHeartProbl,SNOMED,253335001,Isomerism of atrial appendages (disorder),CongenitalHeartProblem
+qcovid_BipolarDiseaseOrSchi,SNOMED,31446002,Bipolar I disorder most recent episode hypomanic (disorder),BipolarDiseaseOrSchizophrenia
+qcovid_CancerOfBloodOrBoneM,SNOMED,863761000000109,Clinical stage B chronic lymphocytic leukaemia (disorder),CancerOfBloodOrBoneMarrow
+qcovid_CancerOfBloodOrBoneM,SNOMED,93493001,Hodgkin's disease lymphocytic-histiocytic predominance of intra-abdominal lymph nodes (disorder),CancerOfBloodOrBoneMarrow
+qcovid_CancerOfBloodOrBoneM,SNOMED,110005000,Acute myelomonocytic leukemia FAB M4 (disorder),CancerOfBloodOrBoneMarrow
+qcovid_CancerOfBloodOrBoneM,SNOMED,188729005,Adult T-cell leukemia (disorder),CancerOfBloodOrBoneMarrow
+qcovid_CongenitalHeartProbl,SNOMED,204354004,Congenital tricuspid atresia and stenosis (disorder),CongenitalHeartProblem
+qcovid_CongenitalHeartProbl,SNOMED,253601007,Aortic valve ring hypoplasia (disorder),CongenitalHeartProblem
+qcovid_CongenitalHeartProbl,SNOMED,26780008,Coarctation of pulmonary artery (disorder),CongenitalHeartProblem
+qcovid_CancerOfBloodOrBoneM,SNOMED,269476000,Nodular lymphoma (disorder),CancerOfBloodOrBoneMarrow
+qcovid_LungOrOralCancer,SNOMED,363432004,Malignant tumor of trachea (disorder),LungOrOralCancer
+qcovid_AtrialFibrillation,SNOMED,440059007,Persistent atrial fibrillation (disorder),AtrialFibrillation
+qcovid_CoronaryHeartDisease,SNOMED,57054005,Acute myocardial infarction (disorder),CoronaryHeartDisease
+qcovid_CancerOfBloodOrBoneM,SNOMED,93135004,Letterer-Siwe disease of intrathoracic lymph nodes (disorder),CancerOfBloodOrBoneMarrow
+qcovid_CancerOfBloodOrBoneM,SNOMED,93527005,Hodgkin's disease of spleen (disorder),CancerOfBloodOrBoneMarrow
+qcovid_CongenitalHeartProbl,SNOMED,10818008,Congenital malposition of heart (disorder),CongenitalHeartProblem
+qcovid_CancerOfBloodOrBoneM,SNOMED,188738007,Granulocytic sarcoma (disorder),CancerOfBloodOrBoneMarrow
+qcovid_CongenitalHeartProbl,SNOMED,253546004,Left ventricular outflow tract obstruction (disorder),CongenitalHeartProblem
+qcovid_BipolarDiseaseOrSchi,SNOMED,35252006,Disorganized schizophrenia (disorder),BipolarDiseaseOrSchizophrenia
+qcovid_RheumatoidArthritisO,SNOMED,429192004,Rheumatoid arthritis of foot (disorder),RheumatoidArthritisOrSle
+qcovid_CancerOfBloodOrBoneM,SNOMED,93189002,Malignant histiocytosis of spleen (disorder),CancerOfBloodOrBoneMarrow
+qcovid_CancerOfBloodOrBoneM,SNOMED,93197009,Malignant lymphoma of lymph nodes of multiple sites (disorder),CancerOfBloodOrBoneMarrow
+qcovid_CancerOfBloodOrBoneM,SNOMED,95210003,Plasma cell leukemia disease (disorder),CancerOfBloodOrBoneMarrow
+qcovid_CancerOfBloodOrBoneM,SNOMED,109988003,Histiocytic sarcoma (disorder),CancerOfBloodOrBoneMarrow
+qcovid_Dementia,SNOMED,13092008,Pick's disease (disorder),Dementia
+qcovid_LungOrOralCancer,SNOMED,187637005,Malignant neoplasm of tongue tip and lateral border (disorder),LungOrOralCancer
+qcovid_CongenitalHeartProbl,SNOMED,271573009,Congenital abnormality of thoracic aorta and pulmonary arteries (disorder),CongenitalHeartProblem
+qcovid_CoronaryHeartDisease,SNOMED,394659003,Acute coronary syndrome (disorder),CoronaryHeartDisease
+qcovid_LearningDisabilityOr,SNOMED,40700009,Severe intellectual disability (disorder),LearningDisabilityOrDownsSyndrome
+qcovid_Diabetes,SNOMED,421986006,Persistent proteinuria due to type 2 diabetes mellitus (disorder),Diabetes
+qcovid_CongenitalHeartProbl,OPCS4,K068,Other specified other repair of transposition of great arteries,CongenitalHeartProblem
+qcovid_TakingAntiLeukotrien,DMD,35515311000001106,Fusacomb Easyhaler 50micrograms/dose / 500micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd) (product),TakingAntiLeukotrieneOrLaba
+qcovid_PrescribedImmunoSupp,DMD,408155001,Product containing precisely sirolimus 2 milligram/1 each conventional release oral tablet (clinical drug),PrescribedImmunoSuppressants
+qcovid_CancerOfBloodOrBoneM,ICD10,C942,Acute megakaryoblastic leukaemia,CancerOfBloodOrBoneMarrow
+qcovid_BipolarDiseaseOrSchi,ICD10,F232,Acute schizophrenia-like psychotic disorder,BipolarDiseaseOrSchizophrenia
+qcovid_BipolarDiseaseOrSchi,ICD10,F29,Unspecified nonorganic psychosis,BipolarDiseaseOrSchizophrenia
+qcovid_CoronaryHeartDisease,ICD10,I23,Certain current complications following acute myocardial infarction,CoronaryHeartDisease
+qcovid_StrokeOrTia,ICD10,I618,Other intracerebral haemorrhage,StrokeOrTia
+qcovid_CysticFibrosisBronch,ICD10,J676,Maple-bark-stripper lung,CysticFibrosisBronchiectasisAlveolitis
+qcovid_PriorFractureOfHipWr,ICD10,S7201,Fracture of neck of femur,PriorFractureOfHipWristSpineHumerus
+qcovid_CongenitalHeartProbl,OPCS4,L018,Other specified open operations for combined abnormality of great vessels,CongenitalHeartProblem
+qcovid_CongenitalHeartProbl,OPCS4,L02,** first length 4 code ** Division of patent ductus ateriosus,CongenitalHeartProblem
+qcovid_LungOrOralCancer,ICD10,C119,"Malignant neoplasm: Nasopharynx, unspecified",LungOrOralCancer
+qcovid_LungOrOralCancer,ICD10,C343,"Malignant neoplasm: Lower lobe, bronchus or lung",LungOrOralCancer
+qcovid_CancerOfBloodOrBoneM,ICD10,C830,Small cell B-cell lymphoma,CancerOfBloodOrBoneMarrow
+qcovid_BipolarDiseaseOrSchi,ICD10,F204,Post-schizophrenic depression,BipolarDiseaseOrSchizophrenia
+qcovid_CerebralPalsy,ICD10,G809,"Cerebral palsy, unspecified",CerebralPalsy
+qcovid_RheumatoidArthritisO,ICD10,M0682,Other specified rheumatoid arthritis,RheumatoidArthritisOrSle
+qcovid_RheumatoidArthritisO,ICD10,M0686,Other specified rheumatoid arthritis,RheumatoidArthritisOrSle
+qcovid_CancerOfBloodOrBoneM,ICD10,C913,Prolymphocytic leukaemia of B-cell type,CancerOfBloodOrBoneMarrow
+qcovid_CancerOfBloodOrBoneM,ICD10,C966,Unifocal Langerhans-cell histiocytosis,CancerOfBloodOrBoneMarrow
+qcovid_Dementia,ICD10,F028,Dementia in other specified diseases classified elsewhere,Dementia
+qcovid_PriorFractureOfHipWr,ICD10,S2210,Multiple fractures of thoracic spine,PriorFractureOfHipWristSpineHumerus
+qcovid_PriorFractureOfHipWr,ICD10,S7200,Fracture of neck of femur,PriorFractureOfHipWristSpineHumerus
+qcovid_SolidOrganTransplant,OPCS4,J013,Replacement of previous liver transplant,SolidOrganTransplant/SolidOrganTransplantOrBoneMarrowTransplantInLast6Months
+qcovid_CongenitalHeartProbl,OPCS4,K041,Repair of tetralogy of fallot using valved right ventricular outflow conduit,CongenitalHeartProblem
+qcovid_RadioTherapyInLast6M,OPCS4,Y362,Introduction of therapeutic implant into organ NOC,RadioTherapyInLast6Months
+qcovid_StrokeOrTia,SNOMED,15258001,Subclavian steal syndrome (disorder),StrokeOrTia
+qcovid_LiverCirrhosis,SNOMED,197291001,Unilobular portal cirrhosis (disorder),LiverCirrhosis
+qcovid_BipolarDiseaseOrSchi,SNOMED,231485007,Post-schizophrenic depression (disorder),BipolarDiseaseOrSchizophrenia
+qcovid_Diabetes,SNOMED,719216001,Hypoglycemic coma due to type 2 diabetes mellitus,Diabetes
+qcovid_CancerOfBloodOrBoneM,SNOMED,847701000000108,Follicular lymphoma grade 3b (disorder),CancerOfBloodOrBoneMarrow
+qcovid_CongenitalHeartProbl,OPCS4,L051,Creation of shunt to main pulmonary artery from ascending aorta using interposition tube prosthesis,CongenitalHeartProblem
+qcovid_ChronicKidneyDisease,OPCS4,M018,Other specified transplantation of kidney,ChronicKidneyDisease
+qcovid_RadioTherapyInLast6M,OPCS4,P064,Implantation of radioactive substance into vulva,RadioTherapyInLast6Months
+qcovid_PrescribedImmunoSupp,DMD,11762911000001102,Lenalidomide 15mg capsules (product),PrescribedImmunoSuppressants
+qcovid_TakingAntiLeukotrien,DMD,38897411000001103,Fluticasone propionate 500micrograms/dose / Salmeterol 50micrograms/dose dry powder inhaler (product),TakingAntiLeukotrieneOrLaba
+qcovid_SolidOrganTransplant,OPCS4,G269,Unspecified transplantation of stomach,SolidOrganTransplant/SolidOrganTransplantOrBoneMarrowTransplantInLast6Months
+qcovid_CongenitalHeartProbl,OPCS4,L01,** first length 4 code ** Correction of persistent truncus arteriosus,CongenitalHeartProblem
+qcovid_CongenitalHeartProbl,OPCS4,K203,Repair of cor triatriatum,CongenitalHeartProblem
+qcovid_CancerOfBloodOrBoneM,ICD10,C931,Chronic myelomonocytic leukaemia,CancerOfBloodOrBoneMarrow
+qcovid_BipolarDiseaseOrSchi,ICD10,F308,Other manic episodes,BipolarDiseaseOrSchizophrenia
+qcovid_StrokeOrTia,ICD10,I610,"Intracerebral haemorrhage in hemisphere, subcortical",StrokeOrTia
+qcovid_ChronicKidneyDisease,OPCS4,X403,Haemodialysis NEC,ChronicKidneyDisease
+qcovid_RadioTherapyInLast6M,OPCS4,Y914,Megavoltage treatment for adaptive radiotherapy,RadioTherapyInLast6Months
+qcovid_Dementia,ICD10,F018,Other vascular dementia,Dementia
+qcovid_RheumatoidArthritisO,ICD10,M0693,"Rheumatoid arthritis, unspecified",RheumatoidArthritisOrSle
+qcovid_CongenitalHeartProbl,OPCS4,L07,** first length 4 code ** Creation of shunt to right pulmonary artery from right subclavian artery using interposition tube prosthesis,CongenitalHeartProblem
+qcovid_CancerOfBloodOrBoneM,SNOMED,109965004,Diffuse non-Hodgkin's lymphoma lymphoblastic (disorder),CancerOfBloodOrBoneMarrow
+qcovid_PriorFractureOfHipWr,SNOMED,203657009,Osteoporotic kyphosis (disorder),PriorFractureOfHipWristSpineHumerus
+qcovid_Dementia,SNOMED,230285003,Vascular dementia of acute onset (disorder),Dementia
+qcovid_CongenitalHeartProbl,SNOMED,253321003,Anomalous termination of right pulmonary vein (disorder),CongenitalHeartProblem
+qcovid_Copd,SNOMED,313299006,Severe chronic obstructive pulmonary disease (disorder),Copd
+qcovid_CoronaryHeartDisease,SNOMED,315026000,Transient myocardial ischemia (disorder),CoronaryHeartDisease
+qcovid_LungOrOralCancer,SNOMED,363377003,Malignant tumor of lingual tonsil (disorder),LungOrOralCancer
+qcovid_CongenitalHeartProbl,SNOMED,412787009,Intellectual disability congenital heart disease blepharophimosis blepharoptosis and hypoplastic teeth (disorder),CongenitalHeartProblem
+qcovid_ChronicKidneyDisease,SNOMED,433144002,Chronic kidney disease stage 3 (disorder),ChronicKidneyDisease
+qcovid_CoronaryHeartDisease,SNOMED,66189004,Postmyocardial infarction syndrome (disorder),CoronaryHeartDisease
+qcovid_AtrialFibrillation,SNOMED,720448006,Typical atrial flutter (disorder),AtrialFibrillation
+qcovid_TakingAntiLeukotrien,DMD,35912011000001109,Budesonide 100micrograms/dose / Formoterol 6micrograms/dose dry powder inhaler (product),TakingAntiLeukotrieneOrLaba
+qcovid_CancerOfBloodOrBoneM,SNOMED,188511002,Burkitt tumor of intrathoracic lymph nodes,CancerOfBloodOrBoneMarrow
+qcovid_CongenitalHeartProbl,SNOMED,204306007,Pentalogy of Fallot (disorder),CongenitalHeartProblem
+qcovid_CongenitalHeartProbl,SNOMED,204394002,Congenital anomaly of myocardium (disorder),CongenitalHeartProblem
+qcovid_StrokeOrTia,SNOMED,307766002,Left sided cerebral infarction (disorder),StrokeOrTia
+qcovid_LearningDisabilityOr,SNOMED,35919005,Pervasive developmental disorder (disorder),LearningDisabilityOrDownsSyndrome
+qcovid_Diabetes,SNOMED,420662003,Coma due to diabetes mellitus (disorder),Diabetes
+qcovid_MotorNeuroneDiseaseO,SNOMED,81211007,Primary lateral sclerosis (disorder),MotorNeuroneDiseaseOrMultipleSclerosisOrMyaestheniaOrHuntingtonsChorea
+qcovid_ChronicKidneyDisease,SNOMED,950291000000103,Chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A2 (disorder),ChronicKidneyDisease
+qcovid_SolidOrganTransplant,OPCS4,J542,Transplantation of whole pancreas,SolidOrganTransplant/SolidOrganTransplantOrBoneMarrowTransplantInLast6Months
+qcovid_TakingAntiLeukotrien,DMD,21019711000001107,Flutiform 250micrograms/dose / 10micrograms/dose inhaler (Napp Pharmaceuticals Ltd) (product),TakingAntiLeukotrieneOrLaba
+qcovid_TakingAntiLeukotrien,DMD,30950311000001106,AirFluSal Forspiro 50micrograms/dose / 500micrograms/dose dry powder inhaler (Sandoz Ltd) (product),TakingAntiLeukotrieneOrLaba
+qcovid_PrescribedImmunoSupp,DMD,18044811000001100,Adoport 0.5mg capsules (Sandoz Ltd) (product),PrescribedImmunoSuppressants
+qcovid_PrescribedImmunoSupp,DMD,19265711000001106,Ofatumumab 1g/50ml solution for infusion vials (product),PrescribedImmunoSuppressants
+qcovid_PrescribedImmunoSupp,DMD,209911000001103,Prograf 1mg capsules (Fujisawa Ltd) (product),PrescribedImmunoSuppressants
+qcovid_PrescribedImmunoSupp,DMD,703791008,Product containing precisely pomalidomide 1 milligram/1 each conventional release oral capsule (clinical drug),PrescribedImmunoSuppressants
+qcovid_PrescribedImmunoSupp,DMD,7693411000001106,Alemtuzumab 30mg/3ml solution for injection ampoules (product),PrescribedImmunoSuppressants
+qcovid_CancerOfBloodOrBoneM,SNOMED,188732008,Myeloid leukemia (disorder),CancerOfBloodOrBoneMarrow
+qcovid_Diabetes,SNOMED,190331003,Hyperosmolar coma due to type 2 diabetes mellitus (disorder),Diabetes
+qcovid_Dementia,SNOMED,191449005,Uncomplicated senile dementia (disorder),Dementia
+qcovid_StrokeOrTia,SNOMED,195210002,Anterior cerebral artery syndrome (disorder),StrokeOrTia
+qcovid_CoronaryHeartDisease,SNOMED,315025001,Refractory angina (disorder),CoronaryHeartDisease
+qcovid_Epilepsy,SNOMED,413101007,Stress-induced epilepsy (disorder),Epilepsy
+qcovid_BipolarDiseaseOrSchi,SNOMED,42868002,Subchronic catatonic schizophrenia (disorder),BipolarDiseaseOrSchizophrenia
+qcovid_CancerOfBloodOrBoneM,SNOMED,863781000000100,Clinical stage C chronic lymphocytic leukaemia (disorder),CancerOfBloodOrBoneMarrow
+qcovid_CancerOfBloodOrBoneM,SNOMED,188558005,Hodgkin's disease lymphocytic-histiocytic predominance of lymph nodes of axilla and upper limb (disorder),CancerOfBloodOrBoneMarrow
+qcovid_Epilepsy,SNOMED,230418006,Lennox-Gastaut syndrome (disorder),Epilepsy
+qcovid_CoronaryHeartDisease,SNOMED,233846000,Post-infarction ventricular septal defect (disorder),CoronaryHeartDisease
+qcovid_CoronaryHeartDisease,SNOMED,70211005,Acute myocardial infarction of anterolateral wall (disorder),CoronaryHeartDisease
+qcovid_Copd,SNOMED,89549007,Catarrhal bronchitis (disorder),Copd
+qcovid_LungOrOralCancer,SNOMED,93827000,Primary malignant neoplasm of hilus of lung (disorder),LungOrOralCancer
+qcovid_TakingAntiLeukotrien,DMD,10073011000001107,Serevent 25microgram/actuation Evohaler (GlaxoSmithKline) (product),TakingAntiLeukotrieneOrLaba
+qcovid_PrescribedImmunoSupp,DMD,35934711000001107,Rituximab 100mg/10ml solution for infusion vials (product),PrescribedImmunoSuppressants
+qcovid_PrescribedImmunoSupp,DMD,703794000,Product containing precisely pomalidomide 4 milligram/1 each conventional release oral capsule (clinical drug),PrescribedImmunoSuppressants
+qcovid_RadioTherapyInLast6M,OPCS4,B022,Implantation of radioactive substance into pituitary gland,RadioTherapyInLast6Months
+qcovid_PrescribedImmunoSupp,DMD,24856511000001109,Rituximab 1.4g/11.7ml solution for injection vials (product),PrescribedImmunoSuppressants
+qcovid_TakingAntiLeukotrien,DMD,25254711000001106,DuoResp Spiromax 320micrograms/dose / 9micrograms/dose dry powder inhaler (Teva UK Ltd) (product),TakingAntiLeukotrieneOrLaba
+qcovid_PrescribedImmunoSupp,DMD,28335911000001108,Vanquoral 25mg capsules (Teva UK Ltd) (product),PrescribedImmunoSuppressants
+qcovid_PrescribedImmunoSupp,DMD,3659911000001102,CellCept 250mg capsules (Roche Products Ltd) (product),PrescribedImmunoSuppressants
+qcovid_TakingAntiLeukotrien,DMD,6741711000001104,Singulair Paediatric 4mg granules sachets (Organon Pharma (UK) Ltd) (product),TakingAntiLeukotrieneOrLaba
+qcovid_TakingAntiLeukotrien,DMD,21113911000001100,Fluticasone 50micrograms/dose / Formoterol 5micrograms/dose inhaler CFC free (product),TakingAntiLeukotrieneOrLaba
+qcovid_PrescribedImmunoSupp,DMD,34165611000001103,Truxima 500mg/50ml concentrate for solution for infusion vials (Celltrion Healthcare UK Ltd) (product),PrescribedImmunoSuppressants
+qcovid_CancerOfBloodOrBoneM,SNOMED,188524002,Hodgkin's paragranuloma of intrathoracic lymph nodes (disorder),CancerOfBloodOrBoneMarrow
+qcovid_BipolarDiseaseOrSchi,SNOMED,191569002,Subchronic schizoaffective schizophrenia (disorder),BipolarDiseaseOrSchizophrenia
+qcovid_BipolarDiseaseOrSchi,SNOMED,191577003,Cenesthopathic schizophrenia (disorder),BipolarDiseaseOrSchizophrenia
+qcovid_Diabetes,SNOMED,443694000,Type II diabetes mellitus uncontrolled (finding),Diabetes
+qcovid_Epilepsy,SNOMED,84757009,Epilepsy (disorder),Epilepsy
+qcovid_Copd,SNOMED,87433001,Pulmonary emphysema (disorder),Copd
+qcovid_PrescribedImmunoSupp,DMD,19376911000001102,Capsorin 100mg capsules (Morningside Healthcare Ltd) (product),PrescribedImmunoSuppressants
+qcovid_TakingAntiLeukotrien,DMD,35647511000001107,Fluticasone 125micrograms/dose / Formoterol 5micrograms/dose breath actuated inhaler CFC free (product),TakingAntiLeukotrieneOrLaba
+qcovid_PrescribedImmunoSupp,DMD,4091411000001109,Rapamune 1mg tablets (Wyeth Laboratories) (product),PrescribedImmunoSuppressants
+qcovid_BipolarDiseaseOrSchi,SNOMED,162004,Severe manic bipolar I disorder without psychotic features (disorder),BipolarDiseaseOrSchizophrenia
+qcovid_BipolarDiseaseOrSchi,SNOMED,191595000,Recurrent manic episodes severe with psychosis (disorder),BipolarDiseaseOrSchizophrenia
+qcovid_CongenitalHeartProbl,SNOMED,204363002,Supernumerary cusps of the mitral valve (disorder),CongenitalHeartProblem
+qcovid_LungOrOralCancer,SNOMED,363398003,Malignant tumor of lateral wall of nasopharynx (disorder),LungOrOralCancer
+qcovid_CongenitalHeartProbl,OPCS4,K069,Unspecified other repair of transposition of great arteries,CongenitalHeartProblem
+qcovid_CongenitalHeartProbl,OPCS4,K10,** first length 4 code ** Repair of defect of interatrial septum using prosthetic patch,CongenitalHeartProblem
+qcovid_ChronicKidneyDisease,OPCS4,M013,Allotransplantation of kidney from cadaver NEC,ChronicKidneyDisease
+qcovid_PrescribedImmunoSupp,DMD,24561811000001109,Lemtrada 12mg/1.2ml concentrate for solution for infusion vials (Sanofi Genzyme) (product),PrescribedImmunoSuppressants
+qcovid_TakingAntiLeukotrien,DMD,34812111000001106,Fobumix 320/9 Easyhaler (Orion Pharma (UK) Ltd) (product),TakingAntiLeukotrieneOrLaba
+qcovid_HivOrAids,ICD10,B230,Acute HIV infection syndrome,HivOrAids
+qcovid_LungOrOralCancer,ICD10,C001,Malignant neoplasm: External lower lip,LungOrOralCancer
+qcovid_Diabetes,ICD10,E11,Type 2 diabetes mellitus,Diabetes
+qcovid_Diabetes,ICD10,E140,Unspecified diabetes mellitus,Diabetes
+qcovid_Epilepsy,ICD10,G407,"Petit mal, unspecified, without grand mal seizures",Epilepsy
+qcovid_CoronaryHeartDisease,ICD10,I241,Dressler syndrome,CoronaryHeartDisease
+qcovid_HeartFailure,ICD10,I500,Congestive heart failure,HeartFailure
+qcovid_CancerOfBloodOrBoneM,ICD10,C817,Other (classical) Hodgkin lymphoma,CancerOfBloodOrBoneMarrow
+qcovid_CancerOfBloodOrBoneM,ICD10,C969,"Malignant neoplasm of lymphoid, haematopoietic and related tissue, unspecified",CancerOfBloodOrBoneMarrow
+qcovid_StrokeOrTia,ICD10,G453,Amaurosis fugax,StrokeOrTia
+qcovid_RheumatoidArthritisO,ICD10,M0591,"Seropositive rheumatoid arthritis, unspecified",RheumatoidArthritisOrSle
+qcovid_CongenitalHeartProbl,ICD10,Q251,Coarctation of aorta,CongenitalHeartProblem
+qcovid_LungOrOralCancer,ICD10,C031,Malignant neoplasm: Lower gum,LungOrOralCancer
+qcovid_LungOrOralCancer,ICD10,C052,Malignant neoplasm: Uvula,LungOrOralCancer
+qcovid_LungOrOralCancer,ICD10,C349,"Malignant neoplasm: Bronchus or lung, unspecified",LungOrOralCancer
+qcovid_Dementia,ICD10,F01,Vascular dementia,Dementia
+qcovid_Epilepsy,ICD10,G402,Localization-related (focal)(partial) symptomatic epilepsy and epileptic syndromes with complex partial seizures,Epilepsy
+qcovid_CongenitalHeartProbl,OPCS4,K11,** first length 4 code ** Repair of defect of interventricular septum using prosthetic patch,CongenitalHeartProblem
+qcovid_ChronicKidneyDisease,OPCS4,X408,Other specified compensation for renal failure,ChronicKidneyDisease
+qcovid_HivOrAids,ICD10,B238,HIV disease resulting in other specified conditions,HivOrAids
+qcovid_RheumatoidArthritisO,ICD10,M0585,Other seropositive rheumatoid arthritis,RheumatoidArthritisOrSle
+qcovid_RheumatoidArthritisO,ICD10,M0586,Other seropositive rheumatoid arthritis,RheumatoidArthritisOrSle
+qcovid_RheumatoidArthritisO,ICD10,M0808,Juvenile rheumatoid arthritis,RheumatoidArthritisOrSle
+qcovid_LearningDisabilityOr,ICD10,F72,Severe mental retardation,LearningDisabilityOrDownsSyndrome
+qcovid_ChronicKidneyDisease,ICD10,N184,"Chronic kidney disease, stage 4",ChronicKidneyDisease
+qcovid_CancerOfBloodOrBoneM,SNOMED,188551004,Hodgkin's sarcoma of lymph nodes of multiple sites (disorder),CancerOfBloodOrBoneMarrow
+qcovid_CancerOfBloodOrBoneM,SNOMED,188649008,Leukemic reticuloendotheliosis of lymph nodes of inguinal region and lower limb (disorder),CancerOfBloodOrBoneMarrow
+qcovid_CysticFibrosisBronch,SNOMED,190909002,Cystic fibrosis with intestinal manifestations (disorder),CysticFibrosisBronchiectasisAlveolitis
+qcovid_Dementia,SNOMED,191454001,Presenile dementia with paranoia (disorder),Dementia
+qcovid_CongenitalHeartProbl,SNOMED,204395001,Congenital aneurysm of heart (disorder),CongenitalHeartProblem
+qcovid_CongenitalHeartProbl,SNOMED,204431007,Atresia and stenosis of aorta (disorder),CongenitalHeartProblem
+qcovid_RheumatoidArthritisO,SNOMED,33719002,Subcutaneous rheumatoid nodule (disorder),RheumatoidArthritisOrSle
+qcovid_Diabetes,SNOMED,49455004,Polyneuropathy due to diabetes mellitus (disorder),Diabetes
+qcovid_Copd,SNOMED,77690003,Interstitial emphysema of lung (disorder),Copd
+qcovid_CongenitalHeartProbl,SNOMED,78250005,Ectopia cordis (disorder),CongenitalHeartProblem
+qcovid_CongenitalHeartProbl,SNOMED,83799000,Corrected transposition of great vessels (disorder),CongenitalHeartProblem
+qcovid_CysticFibrosisBronch,SNOMED,86092005,Cystic fibrosis with meconium ileus (disorder),CysticFibrosisBronchiectasisAlveolitis
+qcovid_ChronicKidneyDisease,SNOMED,950231000000104,Chronic kidney disease with glomerular filtration rate category G4 and albuminuria category A3 (disorder),ChronicKidneyDisease
+qcovid_PrescribedImmunoSupp,DMD,88611000001108,Sandimmun 250mg/5ml solution for injection ampoules (Novartis Pharmaceuticals UK Ltd) (product),PrescribedImmunoSuppressants
+qcovid_PrescribedImmunoSupp,DMD,35035511000001109,Ilaris 150mg/1ml solution for injection vials (Novartis Pharmaceuticals UK Ltd) (product),PrescribedImmunoSuppressants
+qcovid_TakingAntiLeukotrien,DMD,21113811000001105,Fluticasone 250micrograms/dose / Formoterol 10micrograms/dose inhaler CFC free (product),TakingAntiLeukotrieneOrLaba
+qcovid_LungOrOralCancer,SNOMED,187653008,Malignant tumor of lateral floor of mouth (disorder),LungOrOralCancer
+qcovid_PriorFractureOfHipWr,SNOMED,203450003,Osteoporotic fracture of lumbar vertebra (disorder),PriorFractureOfHipWristSpineHumerus
+qcovid_CongenitalHeartProbl,SNOMED,204296002,Discordant ventriculoarterial connection (disorder),CongenitalHeartProblem
+qcovid_CongenitalHeartProbl,SNOMED,204391005,Hypoplasia of cardiac vein (disorder),CongenitalHeartProblem
+qcovid_CoronaryHeartDisease,SNOMED,233847009,Cardiac rupture due to and following acute myocardial infarction (disorder),CoronaryHeartDisease
+qcovid_Diabetes,SNOMED,74627003,Complication due to diabetes mellitus (disorder),Diabetes
+qcovid_CysticFibrosisBronch,SNOMED,77593006,Congenital bronchiectasis (disorder),CysticFibrosisBronchiectasisAlveolitis
+qcovid_CancerOfBloodOrBoneM,SNOMED,93196000,Malignant lymphoma of lymph nodes of inguinal region AND/OR lower limb (disorder),CancerOfBloodOrBoneMarrow
+qcovid_Diabetes,SNOMED,11530004,Brittle diabetes mellitus (finding),Diabetes
+qcovid_CancerOfBloodOrBoneM,SNOMED,188630009,Sézary's disease of lymph nodes of head face and neck (disorder),CancerOfBloodOrBoneMarrow
+qcovid_SevereCombinedImmuno,SNOMED,190981001,Selective immunoglobulin G deficiency (disorder),SevereCombinedImmunodeficiencySyndromeViaBool
+qcovid_BipolarDiseaseOrSchi,SNOMED,191618007,Bipolar affective disorder current episode manic (disorder),BipolarDiseaseOrSchizophrenia
+qcovid_StrokeOrTia,SNOMED,195201005,Multiple and bilateral precerebral artery syndromes (disorder),StrokeOrTia
+qcovid_RheumatoidArthritisO,SNOMED,398726004,Rheumatoid lung disease (disorder),RheumatoidArthritisOrSle
+qcovid_BipolarDiseaseOrSchi,SNOMED,53049002,Severe bipolar disorder without psychotic features (disorder),BipolarDiseaseOrSchizophrenia
+qcovid_StrokeOrTia,SNOMED,71444005,Cerebral arterial thrombosis (disorder),StrokeOrTia
+qcovid_CancerOfBloodOrBoneM,SNOMED,93194002,Malignant lymphoma of lymph nodes of axilla AND/OR upper limb (disorder),CancerOfBloodOrBoneMarrow
+qcovid_BipolarDiseaseOrSchi,SNOMED,111482003,Subchronic schizophrenia with acute exacerbations (disorder),BipolarDiseaseOrSchizophrenia
+qcovid_CancerOfBloodOrBoneM,SNOMED,118602004,Hodgkin's granuloma (disorder),CancerOfBloodOrBoneMarrow
+qcovid_HeartFailure,SNOMED,134401001,Left ventricular systolic dysfunction (disorder),HeartFailure
+qcovid_LungOrOralCancer,SNOMED,187601000,Malignant neoplasm of upper lip lipstick area (disorder),LungOrOralCancer
+qcovid_Diabetes,SNOMED,190411003,Multiple complications due to malnutrition related diabetes (disorder),Diabetes
+qcovid_CongenitalHeartProbl,SNOMED,237227006,Congenital heart disease in pregnancy (disorder),CongenitalHeartProblem
+qcovid_LungOrOralCancer,SNOMED,254459004,Malignant tumor of anterior pillar of fauces (disorder),LungOrOralCancer
+qcovid_CancerOfBloodOrBoneM,SNOMED,449220000,Diffuse follicle center lymphoma (disorder),CancerOfBloodOrBoneMarrow
+qcovid_BipolarDiseaseOrSchi,SNOMED,760721000000109,Mixed bipolar affective disorder in partial remission (disorder),BipolarDiseaseOrSchizophrenia
+qcovid_HeartFailure,SNOMED,84114007,Heart failure (disorder),HeartFailure
+qcovid_TakingAntiLeukotrien,DMD,23661411000001103,Fluticasone furoate 92micrograms/dose / Vilanterol 22micrograms/dose dry powder inhaler (product),TakingAntiLeukotrieneOrLaba
+qcovid_TakingAntiLeukotrien,DMD,32960711000001105,Budesonide 200micrograms/dose / Formoterol 6micrograms/dose inhaler (product),TakingAntiLeukotrieneOrLaba
+qcovid_TakingAntiLeukotrien,DMD,9628711000001106,Atimos Modulite 12micrograms/actuation inhaler (Trinity-Chiesi Pharmaceuticals Ltd) (product),TakingAntiLeukotrieneOrLaba
+qcovid_CoronaryHeartDisease,SNOMED,15990001,Acute myocardial infarction of posterolateral wall (disorder),CoronaryHeartDisease
+qcovid_CancerOfBloodOrBoneM,SNOMED,188593003,Hodgkin's disease lymphocytic depletion of lymph nodes of multiple sites (disorder),CancerOfBloodOrBoneMarrow
+qcovid_CoronaryHeartDisease,SNOMED,19057007,Status anginosus (disorder),CoronaryHeartDisease
+qcovid_StrokeOrTia,SNOMED,195213000,Cerebellar stroke syndrome (disorder),StrokeOrTia
+qcovid_RheumatoidArthritisO,SNOMED,287006005,Rheumatoid arthritis of multiple joints (disorder),RheumatoidArthritisOrSle
+qcovid_BipolarDiseaseOrSchi,SNOMED,31658008,Chronic paranoid schizophrenia (disorder),BipolarDiseaseOrSchizophrenia
+qcovid_HivOrAids,SNOMED,422003001,Cachexia associated with acquired immunodeficiency syndrome (finding),HivOrAids
+qcovid_CancerOfBloodOrBoneM,SNOMED,93495008,Hodgkin's disease lymphocytic-histiocytic predominance of intrathoracic lymph nodes (disorder),CancerOfBloodOrBoneMarrow
+qcovid_CongenitalHeartProbl,OPCS4,K052,Reconstruction of atrium using atrial wall for transposition of great arteries,CongenitalHeartProblem
+qcovid_HivOrAids,ICD10,B218,HIV disease resulting in other malignant neoplasms,HivOrAids
+qcovid_LungOrOralCancer,ICD10,C002,"Malignant neoplasm: External lip, unspecified",LungOrOralCancer
+qcovid_LungOrOralCancer,ICD10,C112,Malignant neoplasm: Lateral wall of nasopharynx,LungOrOralCancer
+qcovid_BipolarDiseaseOrSchi,ICD10,F310,"Bipolar affective disorder, current episode hypomanic",BipolarDiseaseOrSchizophrenia
+qcovid_CoronaryHeartDisease,ICD10,I214,Acute subendocardial myocardial infarction,CoronaryHeartDisease
+qcovid_StrokeOrTia,ICD10,I630,Cerebral infarction due to thrombosis of precerebral arteries,StrokeOrTia
+qcovid_CysticFibrosisBronch,ICD10,J47,Bronchiectasis,CysticFibrosisBronchiectasisAlveolitis
+qcovid_RheumatoidArthritisO,ICD10,M0605,Seronegative rheumatoid arthritis,RheumatoidArthritisOrSle
+qcovid_RheumatoidArthritisO,ICD10,M0637,Rheumatoid nodule,RheumatoidArthritisOrSle
+qcovid_TakingAntiLeukotrien,DMD,21113711000001102,Fluticasone 125micrograms/dose / Formoterol 5micrograms/dose inhaler CFC free (product),TakingAntiLeukotrieneOrLaba
+qcovid_PrescribedOralSteroi,DMD,32652311000001103,Dilacort 2.5mg gastro-resistant tablets (Crescent Pharma Ltd) (product),PrescribedOralSteroids
+qcovid_PrescribedImmunoSupp,DMD,327070006,Product containing precisely azathioprine 50 milligram/1 each conventional release oral tablet (clinical drug),PrescribedImmunoSuppressants
+qcovid_CancerOfBloodOrBoneM,SNOMED,188582000,Hodgkin's disease mixed cellularity of lymph nodes of multiple sites (disorder),CancerOfBloodOrBoneMarrow
+qcovid_SevereCombinedImmuno,SNOMED,190986006,Antibody deficiency with near-normal immunoglobulins or with hyperimmunoglobulinemia (finding),SevereCombinedImmunodeficiencySyndromeViaBool
+qcovid_CongenitalHeartProbl,SNOMED,204368006,Subaortic stenosis (disorder),CongenitalHeartProblem
+qcovid_SevereCombinedImmuno,SNOMED,24743004,Complement deficiency disease (disorder),SevereCombinedImmunodeficiencySyndromeViaBool
+qcovid_PrescribedImmunoSupp,DMD,11756011000001107,Revlimid 15mg capsules (Bristol-Myers Squibb Pharmaceuticals Ltd) (product),PrescribedImmunoSuppressants
+qcovid_PrescribedImmunoSupp,DMD,16306511000001107,Deximune 25mg capsules (Dexcel-Pharma Ltd) (product),PrescribedImmunoSuppressants
+qcovid_CongenitalHeartProbl,OPCS4,K081,Repair of double outlet right ventricle with intraventricular tunnel,CongenitalHeartProblem
+qcovid_CongenitalHeartProbl,OPCS4,K082,Repair of fallot-type double outlet right ventricle,CongenitalHeartProblem
+qcovid_BoneMarrowTransplant,OPCS4,W34,** first length 4 code ** Autograft of bone marrow,BoneMarrowTransplantInLast6Months/SolidOrganTransplantOrBoneMarrowTransplantInLast6Months
+qcovid_PrescribedOralSteroi,DMD,28799011000001102,Pevanti 5mg tablets (AMCo) (product),PrescribedOralSteroids
+qcovid_TakingAntiLeukotrien,DMD,320889007,Product containing precisely zafirlukast 20 milligram/1 each conventional release oral tablet (clinical drug),TakingAntiLeukotrieneOrLaba
+qcovid_TakingAntiLeukotrien,DMD,3294211000001101,Symbicort 100/6 Turbohaler (AstraZeneca) (product),TakingAntiLeukotrieneOrLaba
+qcovid_CancerOfBloodOrBoneM,ICD10,C835,Lymphoblastic (diffuse) lymphoma,CancerOfBloodOrBoneMarrow
+qcovid_CancerOfBloodOrBoneM,ICD10,C844,"Peripheral T-cell lymphoma, not elsewhere classified",CancerOfBloodOrBoneMarrow
+qcovid_Diabetes,ICD10,E110,Type 2 diabetes mellitus,Diabetes
+qcovid_LearningDisabilityOr,ICD10,F89,Unspecified disorder of psychological development,LearningDisabilityOrDownsSyndrome
+qcovid_RheumatoidArthritisO,ICD10,M0503,Felty syndrome,RheumatoidArthritisOrSle
+qcovid_ChronicKidneyDisease,OPCS4,X406,Continuous ambulatory peritoneal dialysis,ChronicKidneyDisease
+qcovid_RadioTherapyInLast6M,OPCS4,X651,Delivery of a fraction of total body irradiation,RadioTherapyInLast6Months
+qcovid_RadioTherapyInLast6M,OPCS4,Y354,Introduction of radioactive substance into organ for interstitial brachytherapy NOC,RadioTherapyInLast6Months
+qcovid_LungOrOralCancer,ICD10,C022,Malignant neoplasm: Ventral surface of tongue,LungOrOralCancer
+qcovid_Epilepsy,ICD10,G411,Petit mal status epilepticus,Epilepsy
+qcovid_RheumatoidArthritisO,ICD10,M0581,Other seropositive rheumatoid arthritis,RheumatoidArthritisOrSle
+qcovid_RheumatoidArthritisO,ICD10,M0646,Inflammatory polyarthropathy,RheumatoidArthritisOrSle
+qcovid_CongenitalHeartProbl,ICD10,Q250,Patent ductus arteriosus,CongenitalHeartProblem
+qcovid_CancerOfBloodOrBoneM,ICD10,C819,"Hodgkin lymphoma, unspecified",CancerOfBloodOrBoneMarrow
+qcovid_MotorNeuroneDiseaseO,ICD10,G709,"Myoneural disorder, unspecified",MotorNeuroneDiseaseOrMultipleSclerosisOrMyaestheniaOrHuntingtonsChorea
+qcovid_StrokeOrTia,ICD10,I634,Cerebral infarction due to embolism of cerebral arteries,StrokeOrTia
+qcovid_PriorFractureOfHipWr,ICD10,S2200,Fracture of thoracic vertebra,PriorFractureOfHipWristSpineHumerus
+qcovid_Asthma,SNOMED,13151001,Flax-dressers' disease (disorder),Asthma
+qcovid_Dementia,SNOMED,191463004,Uncomplicated arteriosclerotic dementia (disorder),Dementia
+qcovid_CongenitalHeartProbl,SNOMED,204409004,Anomalous ventricular bands (disorder),CongenitalHeartProblem
+qcovid_CongenitalHeartProbl,SNOMED,736965009,Bypass of two coronary arteries with prosthesis (procedure),CongenitalHeartProblem
+qcovid_PrescribedImmunoSupp,DMD,18166711000001102,Arzip 500mg tablets (Zentiva Pharma UK Ltd) (product),PrescribedImmunoSuppressants
+qcovid_PrescribedOralSteroi,DMD,325444003,Prednisolone 5mg soluble tablet (product),PrescribedOralSteroids
+qcovid_Diabetes,ICD10,E148,Unspecified diabetes mellitus,Diabetes
+qcovid_Dementia,ICD10,F03,Unspecified dementia,Dementia
+qcovid_PeripheralVascularDi,ICD10,I73,Other peripheral vascular diseases,PeripheralVascularDisease
+qcovid_InflammatoryBowelDis,ICD10,K509,"Crohn disease, unspecified",InflammatoryBowelDisease
+qcovid_RheumatoidArthritisO,ICD10,M06,Other rheumatoid arthritis,RheumatoidArthritisOrSle
+qcovid_CongenitalHeartProbl,OPCS4,L071,Creation of shunt to right pulmonary artery from right subclavian artery using interposition tube prosthesis,CongenitalHeartProblem
+qcovid_LiverCirrhosis,SNOMED,15999000,Mixed micro and macronodular cirrhosis (disorder),LiverCirrhosis
+qcovid_CancerOfBloodOrBoneM,SNOMED,188547001,Hodgkin's sarcoma of lymph nodes of axilla and upper limb (disorder),CancerOfBloodOrBoneMarrow
+qcovid_CancerOfBloodOrBoneM,SNOMED,188631008,Sézary's disease of intrathoracic lymph nodes (disorder),CancerOfBloodOrBoneMarrow
+qcovid_BipolarDiseaseOrSchi,SNOMED,191658009,Atypical manic disorder (disorder),BipolarDiseaseOrSchizophrenia
+qcovid_ThrombosisOrPulmonar,SNOMED,195230003,Cerebral infarction due to cerebral venous thrombosis non-pyogenic (disorder),ThrombosisOrPulmonaryEmbolus
+qcovid_StrokeOrTia,SNOMED,195230003,Cerebral infarction due to cerebral venous thrombosis non-pyogenic (disorder),StrokeOrTia
+qcovid_LiverCirrhosis,SNOMED,19943007,Cirrhosis of liver (disorder),LiverCirrhosis
+qcovid_CongenitalHeartProbl,SNOMED,253672004,Preductal aortic stenosis (disorder),CongenitalHeartProblem
+qcovid_Asthma,SNOMED,708094006,Acute exacerbation of intrinsic asthma (disorder),Asthma
+qcovid_CancerOfBloodOrBoneM,SNOMED,93526001,Hodgkin's disease of lymph nodes of multiple sites (disorder),CancerOfBloodOrBoneMarrow
+qcovid_CancerOfBloodOrBoneM,SNOMED,93547002,Hodgkin's sarcoma of intra-abdominal lymph nodes (disorder),CancerOfBloodOrBoneMarrow
+qcovid_SolidOrganTransplant,OPCS4,K026,Revision of transplantation of heart NEC,SolidOrganTransplant/SolidOrganTransplantOrBoneMarrowTransplantInLast6Months
+qcovid_PrescribedImmunoSupp,DMD,4897811000001103,Mycophenolate mofetil 1g/5ml oral suspension sugar free (product),PrescribedImmunoSuppressants
+qcovid_HivOrAids,SNOMED,111880001,Acute human immunodeficiency virus infection (disorder),HivOrAids
+qcovid_CancerOfBloodOrBoneM,SNOMED,188487008,Lymphosarcoma and reticulosarcoma (disorder),CancerOfBloodOrBoneMarrow
+qcovid_Dementia,SNOMED,191464005,Arteriosclerotic dementia with delirium (disorder),Dementia
+qcovid_LiverCirrhosis,SNOMED,31712002,Primary biliary cholangitis (disorder),LiverCirrhosis
+qcovid_Diabetes,SNOMED,395204000,Hyperosmolar non-ketotic state due to type 2 diabetes mellitus (disorder),Diabetes
+qcovid_CongenitalHeartProbl,SNOMED,62335009,Congenital stenosis of inferior vena cava (disorder),CongenitalHeartProblem
+qcovid_BipolarDiseaseOrSchi,SNOMED,79584002,Moderate bipolar disorder (disorder),BipolarDiseaseOrSchizophrenia
+qcovid_CancerOfBloodOrBoneM,SNOMED,94714002,Mycosis fungoides of spleen (disorder),CancerOfBloodOrBoneMarrow
+qcovid_LungOrOralCancer,SNOMED,187661003,Malignant tumor of upper labial sulcus (disorder),LungOrOralCancer
+qcovid_CancerOfBloodOrBoneM,SNOMED,188566001,Hodgkin's disease nodular sclerosis of intrathoracic lymph nodes (disorder),CancerOfBloodOrBoneMarrow
+qcovid_SevereCombinedImmuno,SNOMED,190997006,Severe combined immunodeficiency with low T- and B-cell numbers (disorder),SevereCombinedImmunodeficiencySyndromeViaBool
+qcovid_CoronaryHeartDisease,SNOMED,314116003,Post infarct angina (disorder),CoronaryHeartDisease
+qcovid_HivOrAids,SNOMED,91947003,Asymptomatic human immunodeficiency virus infection (disorder),HivOrAids
+qcovid_CancerOfBloodOrBoneM,SNOMED,188534006,Hodgkin's granuloma of lymph nodes of head face and neck (disorder),CancerOfBloodOrBoneMarrow
+qcovid_Copd,SNOMED,293991000000106,Very severe chronic obstructive pulmonary disease (disorder),Copd
+qcovid_SevereCombinedImmuno,SNOMED,55602000,Nezelof's syndrome (disorder),SevereCombinedImmunodeficiencySyndromeViaBool
+qcovid_Epilepsy,SNOMED,65120008,Generalized convulsive epilepsy (disorder),Epilepsy
+qcovid_Diabetes,SNOMED,713705003,Polyneuropathy due to type 1 diabetes mellitus (disorder),Diabetes
+qcovid_CancerOfBloodOrBoneM,SNOMED,93521006,Hodgkin's disease of intrapelvic lymph nodes (disorder),CancerOfBloodOrBoneMarrow
+qcovid_CongenitalHeartProbl,OPCS4,K18,** first length 4 code ** Creation of valved conduit between atrium and ventricle of heart,CongenitalHeartProblem
+qcovid_BoneMarrowTransplant,OPCS4,W344,Allograft of bone marrow from matched unrelated donor,BoneMarrowTransplantInLast6Months/SolidOrganTransplantOrBoneMarrowTransplantInLast6Months
+qcovid_RadioTherapyInLast6M,OPCS4,Y368,Other specified introduction of non-removable material into organ NOC,RadioTherapyInLast6Months
+qcovid_SolidOrganTransplant,OPCS4,J011,Orthotopic transplantation of liver NEC,SolidOrganTransplant/SolidOrganTransplantOrBoneMarrowTransplantInLast6Months
+qcovid_BoneMarrowTransplant,OPCS4,W343,Allograft of bone marrow from sibling donor,BoneMarrowTransplantInLast6Months/SolidOrganTransplantOrBoneMarrowTransplantInLast6Months
+qcovid_RadioTherapyInLast6M,OPCS4,Y359,Unspecified introduction of removable radioactive material into organ NOC,RadioTherapyInLast6Months
+qcovid_TakingAntiLeukotrien,DMD,25254111000001105,DuoResp Spiromax 160micrograms/dose / 4.5micrograms/dose dry powder inhaler (Teva UK Ltd) (product),TakingAntiLeukotrieneOrLaba
+qcovid_PrescribedImmunoSupp,DMD,34809411000001109,Ceptava 360mg gastro-resistant tablets (Sandoz Ltd) (product),PrescribedImmunoSuppressants
+qcovid_PrescribedImmunoSupp,DMD,35086111000001103,Canakinumab 150mg/1ml solution for injection vials (product),PrescribedImmunoSuppressants
+qcovid_PrescribedImmunoSupp,DMD,9188011000001102,Alemtuzumab 30mg/1ml solution for injection vials (product),PrescribedImmunoSuppressants
+qcovid_CancerOfBloodOrBoneM,SNOMED,188672005,Follicular non-Hodgkin's mixed small cleaved and large cell lymphoma (disorder),CancerOfBloodOrBoneMarrow
+qcovid_RheumatoidArthritisO,SNOMED,239793008,Rheumatoid arthritis with organ / system involvement (disorder),RheumatoidArthritisOrSle
+qcovid_BipolarDiseaseOrSchi,SNOMED,31027006,Schizotypal personality disorder (disorder),BipolarDiseaseOrSchizophrenia
+qcovid_StrokeOrTia,SNOMED,34781003,Vertebral artery syndrome (disorder),StrokeOrTia
+qcovid_StrokeOrTia,SNOMED,64009001,Basilar artery syndrome (disorder),StrokeOrTia
+qcovid_CongenitalHeartProbl,SNOMED,7484005,Double outlet right ventricle (disorder),CongenitalHeartProblem
+qcovid_PrescribedImmunoSupp,DMD,28800611000001103,Adoport 0.75mg capsules (Sandoz Ltd) (product),PrescribedImmunoSuppressants
+qcovid_PrescribedImmunoSupp,DMD,638611000001108,Sandimmun 50mg capsules (Novartis Pharmaceuticals UK Ltd) (product),PrescribedImmunoSuppressants
+qcovid_CancerOfBloodOrBoneM,SNOMED,109966003,Diffuse non-Hodgkin's lymphoma immunoblastic (disorder),CancerOfBloodOrBoneMarrow
+qcovid_SickleCellViaBool,SNOMED,13886001,Sickle cell nephropathy (disorder),SickleCellViaBool
+qcovid_Diabetes,SNOMED,237599002,Insulin treated type 2 diabetes mellitus (disorder),Diabetes
+qcovid_RheumatoidArthritisO,SNOMED,239792003,Seronegative rheumatoid arthritis (disorder),RheumatoidArthritisOrSle
+qcovid_CoronaryHeartDisease,SNOMED,46109009,Subendocardial ischemia (disorder),CoronaryHeartDisease
+qcovid_PrescribedImmunoSupp,DMD,16658211000001106,Tacrolimus 200microgram granules sachets (product),PrescribedImmunoSuppressants
+qcovid_TakingAntiLeukotrien,DMD,23621711000001102,Relvar Ellipta 184micrograms/dose / 22micrograms/dose inhaler (GlaxoSmithKline UK Ltd) (product),TakingAntiLeukotrieneOrLaba
+qcovid_SolidOrganTransplant,OPCS4,K01,** first length 4 code ** Allotransplantation of heart and lung,SolidOrganTransplant/SolidOrganTransplantOrBoneMarrowTransplantInLast6Months
+qcovid_CongenitalHeartProbl,OPCS4,K191,Creation of conduit between atrium and ventricle of heart NEC,CongenitalHeartProblem
+qcovid_BipolarDiseaseOrSchi,ICD10,F230,Acute polymorphic psychotic disorder without symptoms of schizophrenia,BipolarDiseaseOrSchizophrenia
+qcovid_LearningDisabilityOr,ICD10,F818,Other developmental disorders of scholastic skills,LearningDisabilityOrDownsSyndrome
+qcovid_StrokeOrTia,ICD10,G451,Carotid artery syndrome (hemispheric),StrokeOrTia
+qcovid_RheumatoidArthritisO,ICD10,M068,Other specified rheumatoid arthritis,RheumatoidArthritisOrSle
+qcovid_LungOrOralCancer,ICD10,C024,Malignant neoplasm: Lingual tonsil,LungOrOralCancer
+qcovid_CancerOfBloodOrBoneM,ICD10,C829,"Follicular lymphoma, unspecified",CancerOfBloodOrBoneMarrow
+qcovid_StrokeOrTia,ICD10,G454,Transient global amnesia,StrokeOrTia
+qcovid_MotorNeuroneDiseaseO,ICD10,G700,Myasthenia gravis,MotorNeuroneDiseaseOrMultipleSclerosisOrMyaestheniaOrHuntingtonsChorea
+qcovid_CoronaryHeartDisease,ICD10,I238,Other current complications following acute myocardial infarction,CoronaryHeartDisease
+qcovid_CongenitalHeartProbl,ICD10,Q252,Atresia of aorta,CongenitalHeartProblem
+qcovid_SolidOrganTransplant,OPCS4,E531,Double lung transplant,SolidOrganTransplant/SolidOrganTransplantOrBoneMarrowTransplantInLast6Months
+qcovid_CongenitalHeartProbl,OPCS4,K088,Other specified repair of double outlet ventricle,CongenitalHeartProblem
+qcovid_CongenitalHeartProbl,OPCS4,K114,Primary repair of defect of interventricular septum NEC,CongenitalHeartProblem
+qcovid_CongenitalHeartProbl,OPCS4,K209,Unspecified refashioning of atrium,CongenitalHeartProblem
+qcovid_CongenitalHeartProbl,OPCS4,L019,Unspecified open operations for combined abnormality of great vessels,CongenitalHeartProblem
+qcovid_ChronicKidneyDisease,OPCS4,M019,Unspecified transplantation of kidney,ChronicKidneyDisease
+qcovid_CancerOfBloodOrBoneM,ICD10,C839,"Non-follicular (diffuse) lymphoma, unspecified",CancerOfBloodOrBoneMarrow
+qcovid_Diabetes,ICD10,E126,Malnutrition-related diabetes mellitus,Diabetes
+qcovid_CysticFibrosisBronch,ICD10,J672,Bird fancier lung,CysticFibrosisBronchiectasisAlveolitis
+qcovid_RheumatoidArthritisO,ICD10,M060,Seronegative rheumatoid arthritis,RheumatoidArthritisOrSle
+qcovid_PrescribedImmunoSupp,DMD,18164111000001105,Myfenax 250mg capsules (Teva UK Ltd) (product),PrescribedImmunoSuppressants
+qcovid_TakingAntiLeukotrien,DMD,375711000001100,Bambec 10mg tablets (AstraZeneca) (product),TakingAntiLeukotrieneOrLaba
+qcovid_LungOrOralCancer,ICD10,C139,"Malignant neoplasm: Hypopharynx, unspecified",LungOrOralCancer
+qcovid_ThrombosisOrPulmonar,ICD10,I81,Portal vein thrombosis,ThrombosisOrPulmonaryEmbolus
+qcovid_InflammatoryBowelDis,ICD10,K519,"Ulcerative colitis, unspecified",InflammatoryBowelDisease
+qcovid_RheumatoidArthritisO,ICD10,M0506,Felty syndrome,RheumatoidArthritisOrSle
+qcovid_LungOrOralCancer,ICD10,C34,Malignant neoplasm of bronchus and lung,LungOrOralCancer
+qcovid_Diabetes,ICD10,E133,Other specified diabetes mellitus,Diabetes
+qcovid_HeartFailure,ICD10,I110,Hypertensive heart disease with (congestive) heart failure,HeartFailure
+qcovid_Copd,ICD10,J439,"Emphysema, unspecified",Copd
+qcovid_RheumatoidArthritisO,ICD10,M0619,Adult-onset Still disease,RheumatoidArthritisOrSle
+qcovid_LearningDisabilityOr,ICD10,F730,Profound mental retardation,LearningDisabilityOrDownsSyndrome
+qcovid_LearningDisabilityOr,ICD10,F813,Mixed disorder of scholastic skills,LearningDisabilityOrDownsSyndrome
+qcovid_CysticFibrosisBronch,ICD10,J674,Maltworker lung,CysticFibrosisBronchiectasisAlveolitis
+qcovid_CongenitalHeartProbl,OPCS4,K084,Repair of double outlet left ventricle,CongenitalHeartProblem
+qcovid_ChronicKidneyDisease,OPCS4,M014,Allotransplantation of kidney from cadaver heart-beating,ChronicKidneyDisease
+qcovid_SolidOrganTransplant,OPCS4,G788,Other specified other open operations on ileum,SolidOrganTransplant/SolidOrganTransplantOrBoneMarrowTransplantInLast6Months
+qcovid_LungOrOralCancer,SNOMED,1090271000000101,Malignant neoplasm of ventral surface of tongue (disorder),LungOrOralCancer
+qcovid_CancerOfBloodOrBoneM,SNOMED,109391009,Kaposi's sarcoma of lymph nodes (disorder),CancerOfBloodOrBoneMarrow
+qcovid_LungOrOralCancer,SNOMED,187622006,Malignant tumor of labial mucosa (disorder),LungOrOralCancer
+qcovid_Diabetes,SNOMED,190447002,Steroid-induced diabetes (disorder),Diabetes
+qcovid_CoronaryHeartDisease,SNOMED,315348000,Asymptomatic coronary heart disease (disorder),CoronaryHeartDisease
+qcovid_CancerOfBloodOrBoneM,SNOMED,443487006,Mantle cell lymphoma (disorder),CancerOfBloodOrBoneMarrow
+qcovid_BipolarDiseaseOrSchi,SNOMED,764671000000105,Recurrent manic episodes in partial remission (disorder),BipolarDiseaseOrSchizophrenia
+qcovid_BipolarDiseaseOrSchi,SNOMED,79866005,Subchronic paranoid schizophrenia (disorder),BipolarDiseaseOrSchizophrenia
+qcovid_Dementia,SNOMED,90099008,Subcortical leukoencephalopathy (disorder),Dementia
+qcovid_CancerOfBloodOrBoneM,SNOMED,93500006,Hodgkin's disease lymphocytic-histiocytic predominance of spleen (disorder),CancerOfBloodOrBoneMarrow
+qcovid_CancerOfBloodOrBoneM,SNOMED,94719007,Myeloid sarcoma disease (disorder),CancerOfBloodOrBoneMarrow
+qcovid_RadioTherapyInLast6M,OPCS4,Y364,Introduction of non-removable radioactive substance into organ for brachytherapy NOC,RadioTherapyInLast6Months
+qcovid_LungOrOralCancer,SNOMED,187853005,Malignant neoplasm of cartilage of trachea (disorder),LungOrOralCancer
+qcovid_CoronaryHeartDisease,SNOMED,194863005,Atrial septal defect due to and following acute myocardial infarction (disorder),CoronaryHeartDisease
+qcovid_RheumatoidArthritisO,SNOMED,201764007,Rheumatoid arthritis of cervical spine (disorder),RheumatoidArthritisOrSle
+qcovid_RheumatoidArthritisO,SNOMED,201772009,Rheumatoid arthritis of metacarpophalangeal joint (disorder),RheumatoidArthritisOrSle
+qcovid_BipolarDiseaseOrSchi,SNOMED,268619003,Manic disorder single episode (disorder),BipolarDiseaseOrSchizophrenia
+qcovid_CongenitalHeartProbl,SNOMED,30288003,Ventricular septal defect (disorder),CongenitalHeartProblem
+qcovid_Copd,SNOMED,313296004,Mild chronic obstructive pulmonary disease (disorder),Copd
+qcovid_LungOrOralCancer,SNOMED,421249001,Malignant tumor of vermilion border of lip (disorder),LungOrOralCancer
+qcovid_CongenitalHeartProbl,OPCS4,L081,Creation of anastomosis to right pulmonary artery from right subclavian artery NEC,CongenitalHeartProblem
+qcovid_CongenitalHeartProbl,OPCS4,K186,Creation of valved conduit between left ventricle of heart and pulmonary artery,CongenitalHeartProblem
+qcovid_PrescribedImmunoSupp,DMD,10626311000001106,Tysabri 300mg/15ml concentrate for solution for infusion vials (Biogen Ltd) (product),PrescribedImmunoSuppressants
+qcovid_PrescribedImmunoSupp,DMD,16591411000001103,Ilaris 150mg powder for solution for injection vials (Novartis Pharmaceuticals UK Ltd) (product),PrescribedImmunoSuppressants
+qcovid_PrescribedImmunoSupp,DMD,29894911000001104,Revlimid 7.5mg capsules (Bristol-Myers Squibb Pharmaceuticals Ltd) (product),PrescribedImmunoSuppressants
+qcovid_TakingAntiLeukotrien,DMD,3082411000001100,Serevent 50microgram Diskhaler refill pack (GlaxoSmithKline) (product),TakingAntiLeukotrieneOrLaba
+qcovid_CongenitalHeartProbl,OPCS4,K132,Percutaneous transluminal repair of defect of interventricular septum NEC,CongenitalHeartProblem
+qcovid_PrescribedImmunoSupp,DMD,19377111000001102,Capsorin 50mg capsules (Morningside Healthcare Ltd) (product),PrescribedImmunoSuppressants
+qcovid_PrescribedImmunoSupp,DMD,23285711000001106,Imnovid 3mg capsules (Bristol-Myers Squibb Pharmaceuticals Ltd) (product),PrescribedImmunoSuppressants
+qcovid_TakingAntiLeukotrien,DMD,36604711000001102,Stalpex 50micrograms/dose / 500micrograms/dose dry powder inhaler (Glenmark Pharmaceuticals Europe Ltd) (product),TakingAntiLeukotrieneOrLaba
+qcovid_LungOrOralCancer,SNOMED,187634003,Malignant tumor of anterior two-thirds of tongue - dorsal surface (disorder),LungOrOralCancer
+qcovid_PriorFractureOfHipWr,SNOMED,311890007,Osteoporotic collapse of lumbar vertebra (disorder),PriorFractureOfHipWristSpineHumerus
+qcovid_CancerOfBloodOrBoneM,SNOMED,413441006,Acute monocytic leukemia FAB M5b (disorder),CancerOfBloodOrBoneMarrow
+qcovid_LearningDisabilityOr,SNOMED,68618008,Rett's disorder (disorder),LearningDisabilityOrDownsSyndrome
+qcovid_CancerOfBloodOrBoneM,SNOMED,94712003,Mycosis fungoides of lymph nodes of inguinal region AND/OR lower limb (disorder),CancerOfBloodOrBoneMarrow
+qcovid_BipolarDiseaseOrSchi,ICD10,F239,"Acute and transient psychotic disorder, unspecified",BipolarDiseaseOrSchizophrenia
+qcovid_LungOrOralCancer,ICD10,C342,"Malignant neoplasm: Middle lobe, bronchus or lung",LungOrOralCancer
+qcovid_CancerOfBloodOrBoneM,ICD10,C962,Malignant mast cell tumour,CancerOfBloodOrBoneMarrow
+qcovid_Epilepsy,ICD10,G410,Grand mal status epilepticus,Epilepsy
+qcovid_CoronaryHeartDisease,ICD10,I201,Angina pectoris with documented spasm,CoronaryHeartDisease
+qcovid_RheumatoidArthritisO,ICD10,M0649,Inflammatory polyarthropathy,RheumatoidArthritisOrSle
+qcovid_RheumatoidArthritisO,ICD10,M0690,"Rheumatoid arthritis, unspecified",RheumatoidArthritisOrSle
+qcovid_CongenitalHeartProbl,ICD10,Q261,Persistent left superior vena cava,CongenitalHeartProblem
+qcovid_SolidOrganTransplant,OPCS4,J544,Transplantation of islet of langerhans,SolidOrganTransplant/SolidOrganTransplantOrBoneMarrowTransplantInLast6Months
+qcovid_CongenitalHeartProbl,OPCS4,K104,Primary repair of defect of interatrial septum NEC,CongenitalHeartProblem
+qcovid_CongenitalHeartProbl,OPCS4,K139,Unspecified transluminal repair of defect of septum,CongenitalHeartProblem
+qcovid_CongenitalHeartProbl,OPCS4,L013,Repair of anomalous pulmonary artery origin from ascending aorta,CongenitalHeartProblem
+qcovid_LungOrOralCancer,ICD10,C00,Malignant neoplasm of lip,LungOrOralCancer
+qcovid_CancerOfBloodOrBoneM,ICD10,C940,Acute erythroid leukaemia,CancerOfBloodOrBoneMarrow
+qcovid_RheumatoidArthritisO,ICD10,M0536,Rheumatoid arthritis with involvement of other organs and systems,RheumatoidArthritisOrSle
+qcovid_RheumatoidArthritisO,ICD10,M0621,Rheumatoid bursitis,RheumatoidArthritisOrSle
+qcovid_RheumatoidArthritisO,ICD10,M0805,Juvenile rheumatoid arthritis,RheumatoidArthritisOrSle
+qcovid_CongenitalHeartProbl,ICD10,Q265,Anomalous portal venous connection,CongenitalHeartProblem
+qcovid_PriorFractureOfHipWr,ICD10,S221,Multiple fractures of thoracic spine,PriorFractureOfHipWristSpineHumerus
+qcovid_Diabetes,SNOMED,190389009,Type II diabetes mellitus with ulcer (disorder),Diabetes
+qcovid_BipolarDiseaseOrSchi,SNOMED,191584006,Single manic episode moderate (disorder),BipolarDiseaseOrSchizophrenia
+qcovid_StrokeOrTia,SNOMED,230699008,Pure motor lacunar infarction (disorder),StrokeOrTia
+qcovid_ChronicKidneyDisease,SNOMED,46177005,End-stage renal disease (disorder),ChronicKidneyDisease
+qcovid_BipolarDiseaseOrSchi,SNOMED,61403008,Severe depressed bipolar I disorder without psychotic features (disorder),BipolarDiseaseOrSchizophrenia
+qcovid_CongenitalHeartProbl,SNOMED,253614008,Tubular hypoplasia of aorta (disorder),CongenitalHeartProblem
+qcovid_CancerOfBloodOrBoneM,SNOMED,277567002,T-cell prolymphocytic leukemia (disorder),CancerOfBloodOrBoneMarrow
+qcovid_CancerOfBloodOrBoneM,SNOMED,307651005,Myelosclerosis with myeloid metaplasia (disorder),CancerOfBloodOrBoneMarrow
+qcovid_RheumatoidArthritisO,SNOMED,308143008,Seropositive erosive rheumatoid arthritis (disorder),RheumatoidArthritisOrSle
+qcovid_Epilepsy,SNOMED,193011005,Unilateral epilepsy (situation),Epilepsy
+qcovid_CoronaryHeartDisease,SNOMED,194867006,Rupture of papillary muscle as current complication following acute myocardial infarction (disorder),CoronaryHeartDisease
+qcovid_CongenitalHeartProbl,SNOMED,204311009,Eisenmenger's complex (disorder),CongenitalHeartProblem
+qcovid_CoronaryHeartDisease,SNOMED,35928006,Nocturnal angina (disorder),CoronaryHeartDisease
+qcovid_HeartFailure,SNOMED,420913000,New York Heart Association Classification - Class III (finding),HeartFailure
+qcovid_HivOrAids,ICD10,B213,"HIV disease resulting in other malignant neoplasms of lymphoid, haematopoietic and related tissue",HivOrAids
+qcovid_LearningDisabilityOr,ICD10,F81,Specific developmental disorders of scholastic skills,LearningDisabilityOrDownsSyndrome
+qcovid_RheumatoidArthritisO,ICD10,M0589,Other seropositive rheumatoid arthritis,RheumatoidArthritisOrSle
+qcovid_PrescribedImmunoSupp,DMD,18401611000001102,Rapamune 0.5mg tablets (Pfizer Ltd) (product),PrescribedImmunoSuppressants
+qcovid_TakingAntiLeukotrien,DMD,35594011000001105,Combisal 25micrograms/dose / 50micrograms/dose inhaler (Aspire Pharma Ltd) (product),TakingAntiLeukotrieneOrLaba
+qcovid_CancerOfBloodOrBoneM,ICD10,C964,Sarcoma of dendritic cells (accessory cells),CancerOfBloodOrBoneMarrow
+qcovid_Diabetes,ICD10,E103,Type 1 diabetes mellitus,Diabetes
+qcovid_Diabetes,ICD10,E142,Unspecified diabetes mellitus,Diabetes
+qcovid_RheumatoidArthritisO,ICD10,M0529,Rheumatoid vasculitis,RheumatoidArthritisOrSle
+qcovid_CancerOfBloodOrBoneM,ICD10,C810,Nodular lymphocyte predominant Hodgkin lymphoma,CancerOfBloodOrBoneMarrow
+qcovid_CancerOfBloodOrBoneM,ICD10,C821,Follicular lymphoma grade II,CancerOfBloodOrBoneMarrow
+qcovid_Diabetes,ICD10,E101,Type 1 diabetes mellitus,Diabetes
+qcovid_CongenitalHeartProbl,ICD10,Q212,Atrioventricular septal defect,CongenitalHeartProblem
+qcovid_CongenitalHeartProbl,ICD10,Q224,Congenital tricuspid stenosis,CongenitalHeartProblem
+qcovid_CancerOfBloodOrBoneM,SNOMED,188541000,Hodgkin's granuloma of lymph nodes of multiple sites (disorder),CancerOfBloodOrBoneMarrow
+qcovid_Epilepsy,SNOMED,230381009,Localization-related epilepsy (disorder),Epilepsy
+qcovid_CancerOfBloodOrBoneM,SNOMED,188548006,Hodgkin's sarcoma of lymph nodes of inguinal region and lower limb (disorder),CancerOfBloodOrBoneMarrow
+qcovid_StrokeOrTia,SNOMED,195217004,Right sided cerebral hemisphere cerebrovascular accident (disorder),StrokeOrTia
+qcovid_Asthma,SNOMED,424643009,Atopic asthma,Asthma
+qcovid_HivOrAids,ICD10,B231,HIV disease resulting in (persistent) generalized lymphadenopathy,HivOrAids
+qcovid_LungOrOralCancer,ICD10,C10,Malignant neoplasm of oropharynx,LungOrOralCancer
+qcovid_LungOrOralCancer,ICD10,C101,Malignant neoplasm: Anterior surface of epiglottis,LungOrOralCancer
+qcovid_Copd,ICD10,J43,Emphysema,Copd
+qcovid_Diabetes,ICD10,E135,Other specified diabetes mellitus,Diabetes
+qcovid_StrokeOrTia,ICD10,G452,Multiple and bilateral precerebral artery syndromes,StrokeOrTia
+qcovid_CancerOfBloodOrBoneM,SNOMED,109978004,T-cell lymphoma (disorder),CancerOfBloodOrBoneMarrow
+qcovid_SevereCombinedImmuno,SNOMED,119249001,Agammaglobulinemia (finding),SevereCombinedImmunodeficiencySyndromeViaBool
+qcovid_LungOrOralCancer,SNOMED,187631006,Malignant neoplasm of base of tongue dorsal surface (disorder),LungOrOralCancer
+qcovid_CancerOfBloodOrBoneM,SNOMED,188674006,Diffuse malignant lymphoma - small non-cleaved cell (disorder),CancerOfBloodOrBoneMarrow
+qcovid_CancerOfBloodOrBoneM,SNOMED,188745007,Chronic monocytic leukemia (disorder),CancerOfBloodOrBoneMarrow
+qcovid_PriorFractureOfHipWr,SNOMED,203452006,Osteoporotic fracture of cervical vertebra (disorder),PriorFractureOfHipWristSpineHumerus
+qcovid_HeartFailure,SNOMED,275514001,Impaired left ventricular function (finding),HeartFailure
+qcovid_LungOrOralCancer,SNOMED,363396004,Malignant tumor of branchial cleft (disorder),LungOrOralCancer
+qcovid_CoronaryHeartDisease,SNOMED,401303003,Acute ST segment elevation myocardial infarction (disorder),CoronaryHeartDisease
+qcovid_Diabetes,SNOMED,420514000,Persistent proteinuria due to type 1 diabetes mellitus (disorder),Diabetes
+qcovid_MotorNeuroneDiseaseO,SNOMED,7379000,Pseudobulbar palsy (disorder),MotorNeuroneDiseaseOrMultipleSclerosisOrMyaestheniaOrHuntingtonsChorea
+qcovid_CancerOfBloodOrBoneM,SNOMED,93137007,Letterer-Siwe disease of lymph nodes of head face AND/OR neck (disorder),CancerOfBloodOrBoneMarrow
+qcovid_TakingAntiLeukotrien,DMD,34215511000001101,AirFluSal 25micrograms/dose / 250micrograms/dose inhaler (Sandoz Ltd) (product),TakingAntiLeukotrieneOrLaba
+qcovid_PrescribedImmunoSupp,DMD,11756511000001104,Revlimid 25mg capsules (Bristol-Myers Squibb Pharmaceuticals Ltd) (product),PrescribedImmunoSuppressants
+qcovid_CongenitalHeartProbl,OPCS4,K07,** first length 4 code ** Correction of total anomalous pulmonary venous connection to supracardiac vessel,CongenitalHeartProblem
+qcovid_CongenitalHeartProbl,OPCS4,K195,Creation of conduit between left ventricle of heart and aorta NEC,CongenitalHeartProblem
+qcovid_CongenitalHeartProbl,OPCS4,L086,Percutaneous transluminal balloon dilation of anastomosis between pulmonary artery and subclavian artery,CongenitalHeartProblem
+qcovid_RadioTherapyInLast6M,OPCS4,Y35,** first length 4 code ** Introduction of radioactive caesium into organ NOC,RadioTherapyInLast6Months
+qcovid_Asthma,SNOMED,1086711000000100,Life threatening acute exacerbation of intrinsic asthma (disorder),Asthma
+qcovid_CancerOfBloodOrBoneM,SNOMED,188641006,Malignant histiocytosis of lymph nodes of axilla and upper limb (disorder),CancerOfBloodOrBoneMarrow
+qcovid_HeartFailure,SNOMED,195114002,Acute left ventricular failure (disorder),HeartFailure
+qcovid_LiverCirrhosis,SNOMED,197284004,Chronic active hepatitis (disorder),LiverCirrhosis
+qcovid_CongenitalHeartProbl,SNOMED,204433005,Aplasia of aorta (disorder),CongenitalHeartProblem
+qcovid_Epilepsy,SNOMED,230441003,Drug-induced epilepsy (disorder),Epilepsy
+qcovid_StrokeOrTia,SNOMED,230690007,Cerebrovascular accident (disorder),StrokeOrTia
+qcovid_CongenitalHeartProbl,SNOMED,268184003,Hypoplasia of aorta (disorder),CongenitalHeartProblem
+qcovid_CancerOfBloodOrBoneM,SNOMED,397009000,Mast cell malignancy (disorder),CancerOfBloodOrBoneMarrow
+qcovid_Epilepsy,SNOMED,6204001,Juvenile myoclonic epilepsy (disorder),Epilepsy
+qcovid_CancerOfBloodOrBoneM,SNOMED,93523009,Hodgkin's disease of lymph nodes of axilla AND/OR upper limb (disorder),CancerOfBloodOrBoneMarrow
+qcovid_PrescribedImmunoSupp,DMD,36139311000001109,Ciclosporin 100mg/ml oral solution sugar free (product),PrescribedImmunoSuppressants
+qcovid_CancerOfBloodOrBoneM,SNOMED,188635004,Sézary's disease of intrapelvic lymph nodes (disorder),CancerOfBloodOrBoneMarrow
+qcovid_CancerOfBloodOrBoneM,SNOMED,188660004,Malignant mast cell tumors (disorder),CancerOfBloodOrBoneMarrow
+qcovid_LearningDisabilityOr,SNOMED,205616004,Trisomy 21- mitotic nondisjunction mosaicism (disorder),LearningDisabilityOrDownsSyndrome
+qcovid_BipolarDiseaseOrSchi,SNOMED,231494001,Mania (disorder),BipolarDiseaseOrSchizophrenia
+qcovid_BipolarDiseaseOrSchi,SNOMED,231496004,Hypomania (disorder),BipolarDiseaseOrSchizophrenia
+qcovid_SevereCombinedImmuno,SNOMED,234549008,Immunoglobulin G4 deficiency (disorder),SevereCombinedImmunodeficiencySyndromeViaBool
+qcovid_PeripheralVascularDi,SNOMED,400047006,Peripheral vascular disease (disorder),PeripheralVascularDisease
+qcovid_HivOrAids,SNOMED,165816005,Human immunodeficiency virus positive (finding),HivOrAids
+qcovid_BipolarDiseaseOrSchi,SNOMED,191531007,Acute exacerbation of chronic schizophrenia (disorder),BipolarDiseaseOrSchizophrenia
+qcovid_BipolarDiseaseOrSchi,SNOMED,191539009,Acute exacerbation of chronic hebephrenic schizophrenia (disorder),BipolarDiseaseOrSchizophrenia
+qcovid_BipolarDiseaseOrSchi,SNOMED,191588009,Single manic episode in full remission (disorder),BipolarDiseaseOrSchizophrenia
+qcovid_RheumatoidArthritisO,SNOMED,201776007,Rheumatoid arthritis of sacroiliac joint (disorder),RheumatoidArthritisOrSle
+qcovid_Epilepsy,SNOMED,307357004,Jacksonian focal or motor epilepsy (disorder),Epilepsy
+qcovid_BipolarDiseaseOrSchi,SNOMED,63181006,Paranoid schizophrenia in remission (disorder),BipolarDiseaseOrSchizophrenia
+qcovid_Diabetes,SNOMED,111552007,Diabetes mellitus without complication (disorder),Diabetes
+qcovid_BipolarDiseaseOrSchi,SNOMED,191542003,Catatonic schizophrenia (disorder),BipolarDiseaseOrSchizophrenia
+qcovid_BipolarDiseaseOrSchi,SNOMED,191638008,Mixed bipolar affective disorder mild (disorder),BipolarDiseaseOrSchizophrenia
+qcovid_StrokeOrTia,SNOMED,195189003,Cerebral infarction due to thrombosis of cerebral arteries (disorder),StrokeOrTia
+qcovid_LiverCirrhosis,SNOMED,197299004,Pigmentary portal cirrhosis (disorder),LiverCirrhosis
+qcovid_LiverCirrhosis,SNOMED,197301006,Toxic portal cirrhosis (disorder),LiverCirrhosis
+qcovid_CoronaryHeartDisease,SNOMED,233843008,Silent myocardial infarction (disorder),CoronaryHeartDisease
+qcovid_LungOrOralCancer,SNOMED,363360003,Malignant tumor of anterior two-thirds of tongue (disorder),LungOrOralCancer
+qcovid_BipolarDiseaseOrSchi,SNOMED,64905009,Paranoid schizophrenia (disorder),BipolarDiseaseOrSchizophrenia
+qcovid_CancerOfBloodOrBoneM,ICD10,C813,Lymphocyte depleted (classical) Hodgkin lymphoma,CancerOfBloodOrBoneMarrow
+qcovid_CancerOfBloodOrBoneM,ICD10,C926,Acute myeloid leukaemia with 11q23-abnormality,CancerOfBloodOrBoneMarrow
+qcovid_Diabetes,ICD10,E145,Unspecified diabetes mellitus,Diabetes
+qcovid_LearningDisabilityOr,ICD10,F803,Acquired aphasia with epilepsy [Landau-Kleffner],LearningDisabilityOrDownsSyndrome
+qcovid_StrokeOrTia,ICD10,I616,"Intracerebral haemorrhage, multiple localized",StrokeOrTia
+qcovid_RheumatoidArthritisO,ICD10,M0516,Rheumatoid lung disease,RheumatoidArthritisOrSle
+qcovid_RheumatoidArthritisO,ICD10,M0524,Rheumatoid vasculitis,RheumatoidArthritisOrSle
+qcovid_CongenitalHeartProbl,ICD10,Q269,"Congenital malformation of great vein, unspecified",CongenitalHeartProblem
+qcovid_CongenitalHeartProbl,OPCS4,K135,Percutaneous transluminal repair of defect of unspecified septum using prosthesis,CongenitalHeartProblem
+qcovid_CongenitalHeartProbl,OPCS4,L062,Creation of anastomosis to main pulmonary artery from ascending aorta NEC,CongenitalHeartProblem
+qcovid_PrescribedImmunoSupp,DMD,16658611000001108,Tacrolimus 1mg granules sachets (product),PrescribedImmunoSuppressants
+qcovid_CancerOfBloodOrBoneM,ICD10,C866,Primary cutaneous CD30-positive T-cell proliferations,CancerOfBloodOrBoneMarrow
+qcovid_CancerOfBloodOrBoneM,ICD10,C91,Lymphoid leukaemia,CancerOfBloodOrBoneMarrow
+qcovid_CancerOfBloodOrBoneM,ICD10,C921,"Chronic myeloid leukaemia [CML], BCR/ABL-positive",CancerOfBloodOrBoneMarrow
+qcovid_ParkinsonsDisease,ICD10,G214,Vascular parkinsonism,ParkinsonsDisease
+qcovid_ThrombosisOrPulmonar,ICD10,I820,Budd-Chiari syndrome,ThrombosisOrPulmonaryEmbolus
+qcovid_RheumatoidArthritisO,ICD10,M0698,"Rheumatoid arthritis, unspecified",RheumatoidArthritisOrSle
+qcovid_CongenitalHeartProbl,ICD10,Q24,Other congenital malformations of heart,CongenitalHeartProblem
+qcovid_CongenitalHeartProbl,ICD10,Q266,Portal vein-hepatic artery fistula,CongenitalHeartProblem
+qcovid_CancerOfBloodOrBoneM,SNOMED,118607005,Hodgkin lymphoma lymphocyte-rich (disorder),CancerOfBloodOrBoneMarrow
+qcovid_LungOrOralCancer,SNOMED,187716008,Malignant tumor of Waldeyer ring,LungOrOralCancer
+qcovid_Diabetes,SNOMED,201724008,Neuropathic arthropathy due to diabetes mellitus (disorder),Diabetes
+qcovid_CancerOfBloodOrBoneM,SNOMED,277613000,Cutaneous/peripheral T-cell lymphoma (disorder),CancerOfBloodOrBoneMarrow
+qcovid_Asthma,SNOMED,401193004,Asthma confirmed (situation),Asthma
+qcovid_CancerOfBloodOrBoneM,SNOMED,65399007,Langerhans cell histiocytosis (disorder),CancerOfBloodOrBoneMarrow
+qcovid_CancerOfBloodOrBoneM,SNOMED,188668006,Malignant mast cell tumor of spleen,CancerOfBloodOrBoneMarrow
+qcovid_RheumatoidArthritisO,SNOMED,201770001,Rheumatoid arthritis of distal radioulnar joint (disorder),RheumatoidArthritisOrSle
+qcovid_Epilepsy,SNOMED,267581004,Progressive myoclonic epilepsy (disorder),Epilepsy
+qcovid_LungOrOralCancer,SNOMED,302815008,Malignant tumor of frenum of lip (disorder),LungOrOralCancer
+qcovid_LearningDisabilityOr,ICD10,F721,Severe mental retardation,LearningDisabilityOrDownsSyndrome
+qcovid_SolidOrganTransplant,OPCS4,K021,Allotransplantation of heart NEC,SolidOrganTransplant/SolidOrganTransplantOrBoneMarrowTransplantInLast6Months
+qcovid_CongenitalHeartProbl,OPCS4,K046,Repair of fallot-type pulmonary atresia with aortopulmonary collaterals,CongenitalHeartProblem
+qcovid_TakingAntiLeukotrien,DMD,10075611000001101,Salmeterol 25micrograms/actuation inhaler CFC free (product),TakingAntiLeukotrieneOrLaba
+qcovid_PrescribedImmunoSupp,DMD,28809011000001102,Tacrolimus 750microgram modified-release tablets (product),PrescribedImmunoSuppressants
+qcovid_CancerOfBloodOrBoneM,ICD10,C950,Acute leukaemia of unspecified cell type,CancerOfBloodOrBoneMarrow
+qcovid_Diabetes,ICD10,E111,Type 2 diabetes mellitus,Diabetes
+qcovid_BipolarDiseaseOrSchi,ICD10,F209,"Schizophrenia, unspecified",BipolarDiseaseOrSchizophrenia
+qcovid_LiverCirrhosis,ICD10,K74,Fibrosis and cirrhosis of liver,LiverCirrhosis
+qcovid_RheumatoidArthritisO,ICD10,M0507,Felty syndrome,RheumatoidArthritisOrSle
+qcovid_CongenitalHeartProbl,SNOMED,16567006,Mesocardia (disorder),CongenitalHeartProblem
+qcovid_CancerOfBloodOrBoneM,SNOMED,188768003,Myelomonocytic leukemia (disorder),CancerOfBloodOrBoneMarrow
+qcovid_ChronicKidneyDisease,SNOMED,324251000000105,Chronic kidney disease stage 3 with proteinuria (disorder),ChronicKidneyDisease
+qcovid_LungOrOralCancer,ICD10,C103,Malignant neoplasm: Posterior wall of oropharynx,LungOrOralCancer
+qcovid_BipolarDiseaseOrSchi,ICD10,F252,"Schizoaffective disorder, mixed type",BipolarDiseaseOrSchizophrenia
+qcovid_CoronaryHeartDisease,ICD10,I200,Unstable angina,CoronaryHeartDisease
+qcovid_InflammatoryBowelDis,ICD10,K515,Left sided colitis,InflammatoryBowelDisease
+qcovid_BipolarDiseaseOrSchi,ICD10,F251,"Schizoaffective disorder, depressive type",BipolarDiseaseOrSchizophrenia
+qcovid_ThrombosisOrPulmonar,ICD10,I26,Pulmonary embolism,ThrombosisOrPulmonaryEmbolus
+qcovid_AtrialFibrillation,ICD10,I482,Chronic atrial fibrillation,AtrialFibrillation
+qcovid_CancerOfBloodOrBoneM,ICD10,C90,Multiple myeloma and malignant plasma cell neoplasms,CancerOfBloodOrBoneMarrow
+qcovid_RheumatoidArthritisO,ICD10,M0629,Rheumatoid bursitis,RheumatoidArthritisOrSle
+qcovid_PrescribedImmunoSupp,DMD,703792001,Product containing precisely pomalidomide 2 milligram/1 each conventional release oral capsule (clinical drug),PrescribedImmunoSuppressants
+qcovid_TakingAntiLeukotrien,DMD,12911011000001100,Beclometasone 100micrograms/dose / Formoterol 6micrograms/dose inhaler CFC free (product),TakingAntiLeukotrieneOrLaba
+qcovid_BoneMarrowTransplant,OPCS4,W349,Unspecified graft of bone marrow,BoneMarrowTransplantInLast6Months/SolidOrganTransplantOrBoneMarrowTransplantInLast6Months
+qcovid_CancerOfBloodOrBoneM,SNOMED,188679001,Diffuse non-Hodgkin's lymphoma undifferentiated (diffuse) (disorder),CancerOfBloodOrBoneMarrow
+qcovid_Diabetes,SNOMED,190372001,Type I diabetes mellitus maturity onset (disorder),Diabetes
+qcovid_SevereCombinedImmuno,SNOMED,191001007,Major histocompatibility complex class I deficiency (disorder),SevereCombinedImmunodeficiencySyndromeViaBool
+qcovid_Dementia,SNOMED,191455000,Presenile dementia with depression (disorder),Dementia
+qcovid_BipolarDiseaseOrSchi,SNOMED,191527001,Simple schizophrenia (disorder),BipolarDiseaseOrSchizophrenia
+qcovid_LungOrOralCancer,SNOMED,363381003,Malignant tumor of sublingual gland (disorder),LungOrOralCancer
+qcovid_Asthma,SNOMED,405944004,Asthmatic bronchitis (disorder),Asthma
+qcovid_HeartFailure,SNOMED,420300004,New York Heart Association Classification - Class I (finding),HeartFailure
+qcovid_Diabetes,SNOMED,420868002,Disorder due to type 1 diabetes mellitus (disorder),Diabetes
+qcovid_StrokeOrTia,SNOMED,95457000,Brain stem infarction (disorder),StrokeOrTia
+qcovid_CongenitalHeartProbl,OPCS4,K171,Total cavopulmonary connection with extracardiac inferior caval vein to pulmonary artery conduit,CongenitalHeartProblem
+qcovid_CongenitalHeartProbl,OPCS4,L054,Percutaneous transluminal balloon dilation of interposition tube prosthesis between pulmonary artery and aorta,CongenitalHeartProblem
+qcovid_RadioTherapyInLast6M,OPCS4,J123,Selective internal radiotherapy with microspheres to lesion of liver,RadioTherapyInLast6Months
+qcovid_CongenitalHeartProbl,SNOMED,204343009,Hypoplasia of pulmonary valve (disorder),CongenitalHeartProblem
+qcovid_Epilepsy,SNOMED,230413002,Juvenile absence epilepsy (disorder),Epilepsy
+qcovid_SevereCombinedImmuno,SNOMED,234532001,Immunodeficiency disorder (disorder),SevereCombinedImmunodeficiencySyndromeViaBool
+qcovid_LearningDisabilityOr,SNOMED,254264002,Partial trisomy 21 in Down's syndrome (disorder),LearningDisabilityOrDownsSyndrome
+qcovid_Diabetes,SNOMED,420825003,Gangrene due to type 1 diabetes mellitus (disorder),Diabetes
+qcovid_CancerOfBloodOrBoneM,SNOMED,93522004,Hodgkin's disease of intrathoracic lymph nodes (disorder),CancerOfBloodOrBoneMarrow
+qcovid_TakingAntiLeukotrien,DMD,23622011000001107,Relvar Ellipta 92micrograms/dose / 22micrograms/dose inhaler (GlaxoSmithKline UK Ltd) (product),TakingAntiLeukotrieneOrLaba
+qcovid_TakingAntiLeukotrien,DMD,9652711000001107,Formoterol 12micrograms/actuation inhaler (product),TakingAntiLeukotrieneOrLaba
+qcovid_CongenitalHeartProbl,OPCS4,K064,Atrial inversion and repositioning of transposed great artery,CongenitalHeartProblem
+qcovid_PrescribedImmunoSupp,DMD,10354511000001104,Antithymocyte immunoglobulin (rabbit) 25mg powder and solvent for solution for injection vials (product),PrescribedImmunoSuppressants
+qcovid_TakingAntiLeukotrien,DMD,39111011000001108,Fluticasone 50micrograms/dose / Salmeterol 25micrograms/dose inhaler CFC free (product),TakingAntiLeukotrieneOrLaba
+qcovid_PrescribedImmunoSupp,DMD,29903811000001104,Lenalidomide 7.5mg capsules (product),PrescribedImmunoSuppressants
+qcovid_LungOrOralCancer,SNOMED,187613005,Malignant neoplasm of lower lip buccal aspect (disorder),LungOrOralCancer
+qcovid_BipolarDiseaseOrSchi,SNOMED,191590005,Recurrent manic episodes (disorder),BipolarDiseaseOrSchizophrenia
+qcovid_CongenitalHeartProbl,SNOMED,204457005,Supradiaphragmatic total anomalous pulmonary venous return (disorder),CongenitalHeartProblem
+qcovid_LiverCirrhosis,SNOMED,235896001,Infectious cirrhosis (disorder),LiverCirrhosis
+qcovid_LearningDisabilityOr,SNOMED,61152003,Moderate intellectual disability (disorder),LearningDisabilityOrDownsSyndrome
+qcovid_LungOrOralCancer,ICD10,C062,Malignant neoplasm: Retromolar area,LungOrOralCancer
+qcovid_CancerOfBloodOrBoneM,ICD10,C846,"Anaplastic large cell lymphoma, ALK-positive",CancerOfBloodOrBoneMarrow
+qcovid_Diabetes,ICD10,E10,Type 1 diabetes mellitus,Diabetes
+qcovid_LearningDisabilityOr,ICD10,F701,Mild mental retardation,LearningDisabilityOrDownsSyndrome
+qcovid_LearningDisabilityOr,ICD10,F843,Other childhood disintegrative disorder,LearningDisabilityOrDownsSyndrome
+qcovid_RheumatoidArthritisO,ICD10,M0517,Rheumatoid lung disease,RheumatoidArthritisOrSle
+qcovid_RheumatoidArthritisO,ICD10,M0601,Seronegative rheumatoid arthritis,RheumatoidArthritisOrSle
+qcovid_CoronaryHeartDisease,ICD10,I221,Subsequent myocardial infarction of inferior wall,CoronaryHeartDisease
+qcovid_StrokeOrTia,ICD10,I635,Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries,StrokeOrTia
+qcovid_RheumatoidArthritisO,ICD10,M0584,Other seropositive rheumatoid arthritis,RheumatoidArthritisOrSle
+qcovid_RheumatoidArthritisO,ICD10,M063,Rheumatoid nodule,RheumatoidArthritisOrSle
+qcovid_RheumatoidArthritisO,ICD10,M0643,Inflammatory polyarthropathy,RheumatoidArthritisOrSle
+qcovid_CongenitalHeartProbl,ICD10,Q241,Laevocardia,CongenitalHeartProblem
+qcovid_AtrialFibrillation,SNOMED,15964901000119107,Atypical atrial flutter (disorder),AtrialFibrillation
+qcovid_Dementia,SNOMED,230286002,Subcortical vascular dementia (disorder),Dementia
+qcovid_CancerOfBloodOrBoneM,SNOMED,400122007,Primary cutaneous T-cell lymphoma (disorder),CancerOfBloodOrBoneMarrow
+qcovid_CancerOfBloodOrBoneM,SNOMED,414166008,Extranodal natural killer/T-cell lymphoma nasal type (disorder),CancerOfBloodOrBoneMarrow
+qcovid_CongenitalHeartProbl,SNOMED,48121000,Congenital cardiomegaly (disorder),CongenitalHeartProblem
+qcovid_Epilepsy,SNOMED,89525009,Gelastic seizure (disorder),Epilepsy
+qcovid_RadioTherapyInLast6M,OPCS4,Y352,Introduction of iridium wire into organ NOC,RadioTherapyInLast6Months
+qcovid_HivOrAids,ICD10,B21,Human immunodeficiency virus [HIV] disease resulting in malignant neoplasms,HivOrAids
+qcovid_LungOrOralCancer,ICD10,C02,Malignant neoplasm of other and unspecified parts of tongue,LungOrOralCancer
+qcovid_LearningDisabilityOr,ICD10,F720,Severe mental retardation,LearningDisabilityOrDownsSyndrome
+qcovid_CysticFibrosisBronch,ICD10,J678,Hypersensitivity pneumonitis due to other organic dusts,CysticFibrosisBronchiectasisAlveolitis
+qcovid_HeartFailure,SNOMED,10633002,Acute congestive heart failure (disorder),HeartFailure
+qcovid_CoronaryHeartDisease,SNOMED,1755008,Old myocardial infarction (disorder),CoronaryHeartDisease
+qcovid_CoronaryHeartDisease,SNOMED,233821000,New onset angina (disorder),CoronaryHeartDisease
+qcovid_CongenitalHeartProbl,SNOMED,253297008,Transposition of aorta (disorder),CongenitalHeartProblem
+qcovid_CongenitalHeartProbl,SNOMED,27637000,Dextrocardia (disorder),CongenitalHeartProblem
+qcovid_Diabetes,SNOMED,43959009,Cataract of eye due to diabetes mellitus (disorder),Diabetes
+qcovid_LungOrOralCancer,ICD10,C003,"Malignant neoplasm: Upper lip, inner aspect",LungOrOralCancer
+qcovid_LungOrOralCancer,ICD10,C023,"Malignant neoplasm: Anterior two-thirds of tongue, part unspecified",LungOrOralCancer
+qcovid_PriorFractureOfHipWr,ICD10,M484,Fatigue fracture of vertebra,PriorFractureOfHipWristSpineHumerus
+qcovid_PriorFractureOfHipWr,ICD10,M8041,Drug-induced osteoporosis with pathological fracture,PriorFractureOfHipWristSpineHumerus
+qcovid_PriorFractureOfHipWr,ICD10,S4220,Fracture of upper end of humerus,PriorFractureOfHipWristSpineHumerus
+qcovid_CancerOfBloodOrBoneM,ICD10,C831,Mantle cell lymphoma,CancerOfBloodOrBoneMarrow
+qcovid_CancerOfBloodOrBoneM,ICD10,C851,"B-cell lymphoma, unspecified",CancerOfBloodOrBoneMarrow
+qcovid_LearningDisabilityOr,ICD10,F83,Mixed specific developmental disorders,LearningDisabilityOrDownsSyndrome
+qcovid_PulmonaryHypertensio,ICD10,I279,"Pulmonary heart disease, unspecified",PulmonaryHypertensionOrFibrosis
+qcovid_RheumatoidArthritisO,ICD10,M0691,"Rheumatoid arthritis, unspecified",RheumatoidArthritisOrSle
+qcovid_LungOrOralCancer,ICD10,C020,Malignant neoplasm: Dorsal surface of tongue,LungOrOralCancer
+qcovid_CancerOfBloodOrBoneM,ICD10,C951,Chronic leukaemia of unspecified cell type,CancerOfBloodOrBoneMarrow
+qcovid_RheumatoidArthritisO,ICD10,M0580,Other seropositive rheumatoid arthritis,RheumatoidArthritisOrSle
+qcovid_RheumatoidArthritisO,ICD10,M0600,Seronegative rheumatoid arthritis,RheumatoidArthritisOrSle
+qcovid_RheumatoidArthritisO,ICD10,M061,Adult-onset Still disease,RheumatoidArthritisOrSle
+qcovid_RheumatoidArthritisO,ICD10,M0801,Juvenile rheumatoid arthritis,RheumatoidArthritisOrSle
+qcovid_SolidOrganTransplant,OPCS4,K02,** first length 4 code ** Allotransplantation of heart NEC,SolidOrganTransplant/SolidOrganTransplantOrBoneMarrowTransplantInLast6Months
+qcovid_RadioTherapyInLast6M,OPCS4,O441,Proton radiotherapy,RadioTherapyInLast6Months
+qcovid_CancerOfBloodOrBoneM,ICD10,C889,"Malignant immunoproliferative disease, unspecified",CancerOfBloodOrBoneMarrow
+qcovid_CoronaryHeartDisease,ICD10,I220,Subsequent myocardial infarction of anterior wall,CoronaryHeartDisease
+qcovid_Asthma,ICD10,J45,Asthma,Asthma
+qcovid_RheumatoidArthritisO,ICD10,M0807,Juvenile rheumatoid arthritis,RheumatoidArthritisOrSle
+qcovid_LungOrOralCancer,SNOMED,109823006,Overlapping malignant neoplasm of tongue (disorder),LungOrOralCancer
+qcovid_CancerOfBloodOrBoneM,SNOMED,109991003,Acute myelofibrosis (disorder),CancerOfBloodOrBoneMarrow
+qcovid_LungOrOralCancer,SNOMED,187702003,Malignant tumor of nasopharyngeal soft palate surface (disorder),LungOrOralCancer
+qcovid_LungOrOralCancer,SNOMED,187861000,Malignant neoplasm of upper lobe bronchus (disorder),LungOrOralCancer
+qcovid_BipolarDiseaseOrSchi,SNOMED,191634005,Bipolar affective disorder currently depressed in full remission (disorder),BipolarDiseaseOrSchizophrenia
+qcovid_BipolarDiseaseOrSchi,SNOMED,192362008,Bipolar affective disorder current episode mixed (disorder),BipolarDiseaseOrSchizophrenia
+qcovid_PriorFractureOfHipWr,SNOMED,203451004,Osteoporotic fracture of thoracic vertebra (disorder),PriorFractureOfHipWristSpineHumerus
+qcovid_CongenitalHeartProbl,SNOMED,204346001,Congenital fusion of pulmonary valve segment (disorder),CongenitalHeartProblem
+qcovid_LearningDisabilityOr,SNOMED,231536004,Atypical autism (disorder),LearningDisabilityOrDownsSyndrome
+qcovid_LiverCirrhosis,SNOMED,309783001,Esophageal varices in alcoholic cirrhosis of the liver (disorder),LiverCirrhosis
+qcovid_Dementia,SNOMED,421529006,Dementia with acquired immunodeficiency syndrome (disorder),Dementia
+qcovid_HivOrAids,SNOMED,421529006,Dementia with acquired immunodeficiency syndrome (disorder),HivOrAids
+qcovid_CongenitalHeartProbl,SNOMED,54160000,Congenital aneurysm of sinus of Valsalva (disorder),CongenitalHeartProblem
+qcovid_Diabetes,SNOMED,75524006,Malnutrition related diabetes mellitus (disorder),Diabetes
+qcovid_CancerOfBloodOrBoneM,SNOMED,188569008,Hodgkin's disease nodular sclerosis of lymph nodes of inguinal region and lower limb (disorder),CancerOfBloodOrBoneMarrow
+qcovid_CongenitalHeartProbl,SNOMED,204330009,Common atrioventricular-type ventricular septal defect (disorder),CongenitalHeartProblem
+qcovid_PriorFractureOfHipWr,SNOMED,311806008,Osteoporotic collapse of cervical vertebra (disorder),PriorFractureOfHipWristSpineHumerus
+qcovid_LungOrOralCancer,SNOMED,363373004,Malignant tumor of vermilion border of lower lip (disorder),LungOrOralCancer
+qcovid_LungOrOralCancer,SNOMED,448868009,Malignant neoplasm of lateral wall of oropharynx (disorder),LungOrOralCancer
+qcovid_CoronaryHeartDisease,SNOMED,65547006,Acute myocardial infarction of inferolateral wall (disorder),CoronaryHeartDisease
+qcovid_BipolarDiseaseOrSchi,SNOMED,68995007,Chronic catatonic schizophrenia (disorder),BipolarDiseaseOrSchizophrenia
+qcovid_CongenitalHeartProbl,SNOMED,90383006,Congenital absence of aorta (disorder),CongenitalHeartProblem
+qcovid_BipolarDiseaseOrSchi,SNOMED,111484002,Undifferentiated schizophrenia (disorder),BipolarDiseaseOrSchizophrenia
+qcovid_CancerOfBloodOrBoneM,SNOMED,118618005,Mycosis fungoides (disorder),CancerOfBloodOrBoneMarrow
+qcovid_LungOrOralCancer,SNOMED,187604008,Malignant neoplasm of lower lip external (disorder),LungOrOralCancer
+qcovid_CancerOfBloodOrBoneM,SNOMED,188676008,Malignant lymphoma - mixed small and large cell (disorder),CancerOfBloodOrBoneMarrow
+qcovid_Epilepsy,SNOMED,192992007,Epileptic seizures - myoclonic (disorder),Epilepsy
+qcovid_RheumatoidArthritisO,SNOMED,201773004,Rheumatoid arthritis of proximal interphalangeal joint of finger (disorder),RheumatoidArthritisOrSle
+qcovid_CongenitalHeartProbl,SNOMED,72242008,Postductal coarctation of aorta (disorder),CongenitalHeartProblem
+qcovid_CancerOfBloodOrBoneM,SNOMED,93554008,Hodgkin's sarcoma of spleen (disorder),CancerOfBloodOrBoneMarrow
+qcovid_SevereCombinedImmuno,SNOMED,190995003,Thymic aplasia or dysplasia with immunodeficiency (disorder),SevereCombinedImmunodeficiencySyndromeViaBool
+qcovid_RheumatoidArthritisO,SNOMED,201778008,Rheumatoid arthritis of tibiofibular joint (disorder),RheumatoidArthritisOrSle
+qcovid_LungOrOralCancer,SNOMED,275399006,Malignant tumor of lipstick area of lip (disorder),LungOrOralCancer
+qcovid_Epilepsy,SNOMED,28055006,West syndrome (disorder),Epilepsy
+qcovid_CoronaryHeartDisease,SNOMED,307140009,Acute non-Q wave infarction (disorder),CoronaryHeartDisease
+qcovid_BipolarDiseaseOrSchi,SNOMED,31373002,Disorganized schizophrenia in remission (disorder),BipolarDiseaseOrSchizophrenia
+qcovid_Copd,SNOMED,4981000,Panacinar emphysema (disorder),Copd
+qcovid_CongenitalHeartProbl,SNOMED,7438000,Congenital atresia of aorta (disorder),CongenitalHeartProblem
+qcovid_CongenitalHeartProbl,OPCS4,K079,Unspecified correction of total anomalous pulmonary venous connection,CongenitalHeartProblem
+qcovid_PrescribedImmunoSupp,DMD,24504611000001108,Aubagio 14mg tablets (Sanofi Genzyme) (product),PrescribedImmunoSuppressants
+qcovid_CancerOfBloodOrBoneM,SNOMED,188579005,Hodgkin's disease mixed cellularity of lymph nodes of inguinal region and lower limb (disorder),CancerOfBloodOrBoneMarrow
+qcovid_StrokeOrTia,SNOMED,195186005,Cerebral infarction due to embolism of precerebral arteries (disorder),StrokeOrTia
+qcovid_CongenitalHeartProbl,SNOMED,253515003,Ventricular septal defect in Fallot's tetralogy (disorder),CongenitalHeartProblem
+qcovid_StrokeOrTia,SNOMED,266257000,Transient ischemic attack (disorder),StrokeOrTia
+qcovid_StrokeOrTia,SNOMED,751371000000107,Personal history of transient ischaemic attack (situation),StrokeOrTia
+qcovid_PrescribedImmunoSupp,DMD,19293811000001104,Tacni 0.5mg capsules (Teva UK Ltd) (product),PrescribedImmunoSuppressants
+qcovid_CancerOfBloodOrBoneM,SNOMED,188575004,Hodgkin's disease mixed cellularity of lymph nodes of head face and neck (disorder),CancerOfBloodOrBoneMarrow
+qcovid_CancerOfBloodOrBoneM,SNOMED,188591001,Hodgkin's disease lymphocytic depletion of intrapelvic lymph nodes (disorder),CancerOfBloodOrBoneMarrow
+qcovid_CancerOfBloodOrBoneM,SNOMED,188726003,Subacute lymphoid leukemia (disorder),CancerOfBloodOrBoneMarrow
+qcovid_Epilepsy,SNOMED,192999003,Partial epilepsy with impairment of consciousness (disorder),Epilepsy
+qcovid_CoronaryHeartDisease,SNOMED,194823009,Acute coronary insufficiency (disorder),CoronaryHeartDisease
+qcovid_ChronicKidneyDisease,SNOMED,700379002,Chronic kidney disease stage 3B (disorder),ChronicKidneyDisease
+qcovid_Diabetes,SNOMED,713702000,Gastroparesis due to type 1 diabetes mellitus (disorder),Diabetes
+qcovid_HivOrAids,ICD10,B222,HIV disease resulting in wasting syndrome,HivOrAids
+qcovid_LungOrOralCancer,ICD10,C060,Malignant neoplasm: Cheek mucosa,LungOrOralCancer
+qcovid_CancerOfBloodOrBoneM,ICD10,C845,Other mature T/NK-cell lymphomas,CancerOfBloodOrBoneMarrow
+qcovid_Dementia,ICD10,G308,Other Alzheimer disease,Dementia
+qcovid_CoronaryHeartDisease,ICD10,I21,Acute myocardial infarction,CoronaryHeartDisease
+qcovid_CoronaryHeartDisease,ICD10,I258,Other forms of chronic ischaemic heart disease,CoronaryHeartDisease
+qcovid_RheumatoidArthritisO,ICD10,M0505,Felty syndrome,RheumatoidArthritisOrSle
+qcovid_CongenitalHeartProbl,ICD10,Q249,"Congenital malformation of heart, unspecified",CongenitalHeartProblem
+qcovid_CongenitalHeartProbl,OPCS4,K117,Repair of interventricular septal defect using intraoperative transluminal prosthesis,CongenitalHeartProblem
+qcovid_CongenitalHeartProbl,OPCS4,K129,Unspecified repair of defect of unspecified septum of heart,CongenitalHeartProblem
+qcovid_CongenitalHeartProbl,OPCS4,L032,Percutaneous transluminal stent implantation into arterial duct,CongenitalHeartProblem
+qcovid_CongenitalHeartProbl,SNOMED,13867009,Preductal coarctation of aorta (disorder),CongenitalHeartProblem
+qcovid_RheumatoidArthritisO,SNOMED,201777003,Rheumatoid arthritis of knee (disorder),RheumatoidArthritisOrSle
+qcovid_CongenitalHeartProbl,SNOMED,253514004,Dextraposition of aorta in Fallot's tetralogy (disorder),CongenitalHeartProblem
+qcovid_PriorFractureOfHipWr,SNOMED,311891006,Osteoporotic collapse of thoracic vertebra (disorder),PriorFractureOfHipWristSpineHumerus
+qcovid_Diabetes,SNOMED,421893009,Renal disorder due to type 1 diabetes mellitus (disorder),Diabetes
+qcovid_LungOrOralCancer,SNOMED,187641009,Malignant tumor of frenum linguae (disorder),LungOrOralCancer
+qcovid_CancerOfBloodOrBoneM,SNOMED,188637007,Sézary's disease of lymph nodes of multiple sites (disorder),CancerOfBloodOrBoneMarrow
+qcovid_CancerOfBloodOrBoneM,SNOMED,188741003,Aleukemic myeloid leukemia (disorder),CancerOfBloodOrBoneMarrow
+qcovid_BipolarDiseaseOrSchi,SNOMED,191593007,Recurrent manic episodes moderate (disorder),BipolarDiseaseOrSchizophrenia
+qcovid_Diabetes,SNOMED,420715001,Persistent microalbuminuria due to type 2 diabetes mellitus (disorder),Diabetes
+qcovid_RadioTherapyInLast6M,OPCS4,X655,Oral delivery of radiotherapy for thyroid ablation,RadioTherapyInLast6Months
+qcovid_CongenitalHeartProbl,OPCS4,K188,Other specified creation of valved cardiac conduit,CongenitalHeartProblem
+qcovid_Diabetes,SNOMED,2751001,Fibrocalculous pancreatic diabetes (disorder),Diabetes
+qcovid_Diabetes,SNOMED,314771006,Type I diabetes mellitus with hypoglycemic coma (disorder),Diabetes
+qcovid_Diabetes,SNOMED,421920002,Cataract of eye due to diabetes mellitus type 1 (disorder),Diabetes
+qcovid_HivOrAids,SNOMED,442537007,Non-Hodgkin lymphoma associated with Human immunodeficiency virus infection (disorder),HivOrAids
+qcovid_CancerOfBloodOrBoneM,SNOMED,93184007,Malignant histiocytosis of intrathoracic lymph nodes (disorder),CancerOfBloodOrBoneMarrow
+qcovid_CongenitalHeartProbl,OPCS4,K059,Unspecified atrial inversion operations for transposition of great arteries,CongenitalHeartProblem
+qcovid_CongenitalHeartProbl,OPCS4,K094,Repair of persistent ostium primum,CongenitalHeartProblem
+qcovid_LungOrOralCancer,SNOMED,187688008,Malignant tumor of posterior wall of oropharynx (disorder),LungOrOralCancer
+qcovid_CoronaryHeartDisease,SNOMED,225566008,Ischemic chest pain (finding),CoronaryHeartDisease
+qcovid_LungOrOralCancer,SNOMED,363401000,Malignant tumor of pyriform fossa (disorder),LungOrOralCancer
+qcovid_Diabetes,SNOMED,413184002,Fibrocalculous pancreatopathy without complication (disorder),Diabetes
+qcovid_Dementia,SNOMED,56267009,Multi-infarct dementia (disorder),Dementia
+qcovid_HivOrAids,ICD10,B220,HIV disease resulting in encephalopathy,HivOrAids
+qcovid_BipolarDiseaseOrSchi,ICD10,F31,Bipolar affective disorder,BipolarDiseaseOrSchizophrenia
+qcovid_CoronaryHeartDisease,ICD10,I229,Subsequent myocardial infarction of unspecified site,CoronaryHeartDisease
+qcovid_CongenitalHeartProbl,ICD10,Q208,Other congenital malformations of cardiac chambers and connections,CongenitalHeartProblem
+qcovid_CongenitalHeartProbl,ICD10,Q221,Congenital pulmonary valve stenosis,CongenitalHeartProblem
+qcovid_Epilepsy,ICD10,G41,Status epilepticus,Epilepsy
+qcovid_LiverCirrhosis,ICD10,K703,Alcoholic cirrhosis of liver,LiverCirrhosis
+qcovid_RheumatoidArthritisO,ICD10,M050,Felty syndrome,RheumatoidArthritisOrSle
+qcovid_RheumatoidArthritisO,ICD10,M0681,Other specified rheumatoid arthritis,RheumatoidArthritisOrSle
+qcovid_PriorFractureOfHipWr,ICD10,M4844,Fatigue fracture of vertebra,PriorFractureOfHipWristSpineHumerus
+qcovid_CongenitalHeartProbl,ICD10,Q264,"Anomalous pulmonary venous connection, unspecified",CongenitalHeartProblem
+qcovid_Epilepsy,SNOMED,192981006,Epileptic seizures - atonic (finding),Epilepsy
+qcovid_CongenitalHeartProbl,SNOMED,38385001,Persistent left posterior cardinal vein (disorder),CongenitalHeartProblem
+qcovid_Diabetes,SNOMED,422099009,Disorder of eye due to type 2 diabetes mellitus (disorder),Diabetes
+qcovid_Diabetes,SNOMED,422228004,Multiple complications due to type 1 diabetes mellitus (disorder),Diabetes
+qcovid_CongenitalHeartProbl,SNOMED,45237002,Congenital dilatation of aorta (disorder),CongenitalHeartProblem
+qcovid_Diabetes,SNOMED,127012008,Lipoatrophic diabetes (disorder),Diabetes
+qcovid_CoronaryHeartDisease,SNOMED,194809007,Acute atrial infarction (disorder),CoronaryHeartDisease
+qcovid_Diabetes,SNOMED,532411000000102,Diabetes mellitus adult onset with no mention of complication (disorder),Diabetes
+qcovid_CancerOfBloodOrBoneM,SNOMED,93198004,Malignant lymphoma of spleen (disorder),CancerOfBloodOrBoneMarrow
+qcovid_CancerOfBloodOrBoneM,SNOMED,93530003,Hodgkin's granuloma of intrapelvic lymph nodes (disorder),CancerOfBloodOrBoneMarrow
+qcovid_CongenitalHeartProbl,OPCS4,K179,Unspecified repair of univentricular heart,CongenitalHeartProblem
+qcovid_CongenitalHeartProbl,OPCS4,L061,Creation of aortopulmonary window,CongenitalHeartProblem
+qcovid_RadioTherapyInLast6M,OPCS4,T481,Introduction of radioactive substance into peritoneal cavity,RadioTherapyInLast6Months
+qcovid_ChronicKidneyDisease,OPCS4,X405,Automated peritoneal dialysis,ChronicKidneyDisease
+qcovid_SolidOrganTransplant,OPCS4,G268,Other specified transplantation of stomach,SolidOrganTransplant/SolidOrganTransplantOrBoneMarrowTransplantInLast6Months
+qcovid_SolidOrganTransplant,OPCS4,K023,Implantation of prosthetic heart,SolidOrganTransplant/SolidOrganTransplantOrBoneMarrowTransplantInLast6Months
+qcovid_ChronicKidneyDisease,OPCS4,X402,Peritoneal dialysis NEC,ChronicKidneyDisease
+qcovid_HivOrAids,ICD10,B23,Human immunodeficiency virus [HIV] disease resulting in other conditions,HivOrAids
+qcovid_RheumatoidArthritisO,ICD10,M0609,Seronegative rheumatoid arthritis,RheumatoidArthritisOrSle
+qcovid_Copd,SNOMED,16003001,Giant bullous emphysema (disorder),Copd
+qcovid_CoronaryHeartDisease,SNOMED,194858006,Subsequent myocardial infarction of inferior wall (disorder),CoronaryHeartDisease
+qcovid_Copd,SNOMED,195951007,Acute exacerbation of chronic obstructive airways disease (disorder),Copd
+qcovid_PulmonaryHypertensio,SNOMED,233703007,Interstitial lung disease (disorder),PulmonaryHypertensionOrFibrosis
+qcovid_CongenitalHeartProbl,SNOMED,234132006,Congenital abnormality of great veins and coronary sinus (disorder),CongenitalHeartProblem
+qcovid_CongenitalHeartProbl,SNOMED,28574005,Congenital anomaly of coronary artery (disorder),CongenitalHeartProblem
+qcovid_CancerOfBloodOrBoneM,SNOMED,302855005,Subacute leukemia (disorder),CancerOfBloodOrBoneMarrow
+qcovid_ChronicKidneyDisease,SNOMED,324311000000101,Chronic kidney disease stage 3A with proteinuria (disorder),ChronicKidneyDisease
+qcovid_Epilepsy,SNOMED,44145005,Benign Rolandic epilepsy (disorder),Epilepsy
+qcovid_Copd,SNOMED,52571006,Chronic tracheobronchitis (disorder),Copd
+qcovid_CancerOfBloodOrBoneM,SNOMED,93136003,Letterer-Siwe disease of lymph nodes of axilla AND/OR upper limb (disorder),CancerOfBloodOrBoneMarrow
+qcovid_CancerOfBloodOrBoneM,SNOMED,93549004,Hodgkin's sarcoma of intrathoracic lymph nodes (disorder),CancerOfBloodOrBoneMarrow

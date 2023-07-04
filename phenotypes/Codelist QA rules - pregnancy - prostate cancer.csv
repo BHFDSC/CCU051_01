@@ -1,0 +1,123 @@
+name,terminology,code,term
+pregnancy,SNOMED,198949009,"Renal***REMOVED***hypertension***REMOVED***complicating***REMOVED***pregnancy,***REMOVED***childbirth***REMOVED***and***REMOVED***the***REMOVED***puerperium***REMOVED***(disorder)"
+pregnancy,SNOMED,169564004,Pregnant***REMOVED***-***REMOVED***on***REMOVED***abdominal***REMOVED***palpation***REMOVED***(finding)
+pregnancy,SNOMED,439311009,Intends***REMOVED***to***REMOVED***continue***REMOVED***pregnancy***REMOVED***(finding)
+pregnancy,SNOMED,60810003,Quadruplet***REMOVED***pregnancy***REMOVED***(disorder)
+pregnancy,SNOMED,276367008,Wanted***REMOVED***pregnancy***REMOVED***(finding)
+pregnancy,SNOMED,237627000,Pregnancy***REMOVED***and***REMOVED***type***REMOVED***2***REMOVED***diabetes***REMOVED***mellitus***REMOVED***(disorder)
+prostate_cancer,SNOMED,176263006,Radical prostatectomy with pelvic lymphadenectomy
+pregnancy,SNOMED,237238006,Pregnancy***REMOVED***with***REMOVED***uncertain***REMOVED***dates***REMOVED***(finding)
+prostate_cancer,SNOMED,369775001,Gleason Score 2-4: Well differentiated
+pregnancy,SNOMED,713576003,Monozygotic***REMOVED***twin***REMOVED***pregnancy***REMOVED***(disorder)
+pregnancy,SNOMED,1474004,Hypertensive***REMOVED***heart***REMOVED***AND***REMOVED***renal***REMOVED***disease***REMOVED***complicating***REMOVED***AND/OR***REMOVED***reason***REMOVED***for***REMOVED***care***REMOVED***during***REMOVED***childbirth***REMOVED***(disorder)
+pregnancy,SNOMED,10745291000119103,Malignant***REMOVED***neoplastic***REMOVED***disease***REMOVED***in***REMOVED***mother***REMOVED***complicating***REMOVED***childbirth***REMOVED***(disorder)
+prostate_cancer,SNOMED,176261008,Radical prostatectomy without pelvic node excision
+pregnancy,SNOMED,169560008,Pregnant***REMOVED***-***REMOVED***urine***REMOVED***test***REMOVED***confirms***REMOVED***(finding)
+pregnancy,SNOMED,721166000,Human***REMOVED***immunodeficiency***REMOVED***virus***REMOVED***complicating***REMOVED***pregnancy***REMOVED***childbirth***REMOVED***and***REMOVED***the***REMOVED***puerperium***REMOVED***(disorder)
+pregnancy,SNOMED,10752641000119102,Eclampsia***REMOVED***with***REMOVED***pre-existing***REMOVED***hypertension***REMOVED***in***REMOVED***childbirth***REMOVED***(disorder)
+pregnancy,SNOMED,72301000119103,Asthma***REMOVED***in***REMOVED***pregnancy***REMOVED***(disorder)
+pregnancy,SNOMED,169563005,Pregnant***REMOVED***-***REMOVED***on***REMOVED***history***REMOVED***(finding)
+pregnancy,SNOMED,34694006,Pre-existing***REMOVED***hypertension***REMOVED***complicating***REMOVED***AND/OR***REMOVED***reason***REMOVED***for***REMOVED***care***REMOVED***during***REMOVED***childbirth***REMOVED***(disorder)
+pregnancy,SNOMED,8218002,Chronic***REMOVED***hypertension***REMOVED***complicating***REMOVED***AND/OR***REMOVED***reason***REMOVED***for***REMOVED***care***REMOVED***during***REMOVED***childbirth***REMOVED***(disorder)
+pregnancy,SNOMED,199223000,"Diabetes***REMOVED***mellitus***REMOVED***during***REMOVED***pregnancy,***REMOVED***childbirth***REMOVED***and***REMOVED***the***REMOVED***puerperium***REMOVED***(disorder)"
+pregnancy,SNOMED,609567009,Pre-existing***REMOVED***type***REMOVED***2***REMOVED***diabetes***REMOVED***mellitus***REMOVED***in***REMOVED***pregnancy***REMOVED***(disorder)
+pregnancy,SNOMED,1109971000000105,Pregnancy***REMOVED***too***REMOVED***advanced***REMOVED***for***REMOVED***reliable***REMOVED***antenatal***REMOVED***screening***REMOVED***(finding)
+pregnancy,SNOMED,134781000119106,High***REMOVED***risk***REMOVED***pregnancy***REMOVED***due***REMOVED***to***REMOVED***recurrent***REMOVED***miscarriage***REMOVED***(finding)
+prostate_cancer,SNOMED,428262008,History of malignant neoplasm of prostate (situation)
+pregnancy,SNOMED,169561007,Pregnant***REMOVED***-***REMOVED***blood***REMOVED***test***REMOVED***confirms***REMOVED***(finding)
+pregnancy,SNOMED,10755671000119100,Human***REMOVED***immunodeficiency***REMOVED***virus***REMOVED***in***REMOVED***mother***REMOVED***complicating***REMOVED***childbirth***REMOVED***(disorder)
+prostate_cancer,SNOMED,385377005,Gleason grade finding for prostatic cancer (finding)
+pregnancy,SNOMED,459166009,Dichorionic***REMOVED***diamniotic***REMOVED***twin***REMOVED***pregnancy***REMOVED***(disorder)
+prostate_cancer,SNOMED,394932008,Gleason prostate grade 5-7 (medium) (finding)
+pregnancy,SNOMED,10757441000119102,Pre-existing***REMOVED***hypertensive***REMOVED***heart***REMOVED***disease***REMOVED***in***REMOVED***mother***REMOVED***complicating***REMOVED***childbirth***REMOVED***(disorder)
+pregnancy,SNOMED,78808002,Essential***REMOVED***hypertension***REMOVED***complicating***REMOVED***AND/OR***REMOVED***reason***REMOVED***for***REMOVED***care***REMOVED***during***REMOVED***pregnancy***REMOVED***(disorder)
+pregnancy,SNOMED,106281000119103,Pre-existing***REMOVED***diabetes***REMOVED***mellitus***REMOVED***in***REMOVED***mother***REMOVED***complicating***REMOVED***childbirth***REMOVED***(disorder)
+pregnancy,SNOMED,64254006,Triplet***REMOVED***pregnancy***REMOVED***(disorder)
+pregnancy,SNOMED,29259002,Malignant***REMOVED***hypertension***REMOVED***complicating***REMOVED***AND/OR***REMOVED***reason***REMOVED***for***REMOVED***care***REMOVED***during***REMOVED***pregnancy***REMOVED***(disorder)
+pregnancy,SNOMED,10754881000119104,Diabetes***REMOVED***mellitus***REMOVED***in***REMOVED***mother***REMOVED***complicating***REMOVED***childbirth***REMOVED***(disorder)
+prostate_cancer,SNOMED,176262001,Radical prostatectomy with pelvic node sampling
+pregnancy,SNOMED,169501005,"Pregnant,***REMOVED***diaphragm***REMOVED***failure***REMOVED***(finding)"
+pregnancy,SNOMED,199007008,"Pre-existing***REMOVED***hypertensive***REMOVED***heart***REMOVED***and***REMOVED***renal***REMOVED***disease***REMOVED***complicating***REMOVED***pregnancy,***REMOVED***childbirth***REMOVED***and***REMOVED***the***REMOVED***puerperium***REMOVED***(disorder)"
+pregnancy,SNOMED,22966008,Hypertensive***REMOVED***heart***REMOVED***AND***REMOVED***renal***REMOVED***disease***REMOVED***complicating***REMOVED***AND/OR***REMOVED***reason***REMOVED***for***REMOVED***care***REMOVED***during***REMOVED***pregnancy***REMOVED***(disorder)
+pregnancy,SNOMED,199225007,Diabetes***REMOVED***mellitus***REMOVED***during***REMOVED***pregnancy***REMOVED***-***REMOVED***baby***REMOVED***delivered***REMOVED***(disorder)
+pregnancy,SNOMED,47200007,High***REMOVED***risk***REMOVED***pregnancy***REMOVED***(finding)
+pregnancy,SNOMED,18416000,Essential***REMOVED***hypertension***REMOVED***complicating***REMOVED***AND/OR***REMOVED***reason***REMOVED***for***REMOVED***care***REMOVED***during***REMOVED***childbirth***REMOVED***(disorder)
+pregnancy,SNOMED,169488004,Contraceptive***REMOVED***intrauterine***REMOVED***device***REMOVED***failure***REMOVED***-***REMOVED***pregnant***REMOVED***(finding)
+pregnancy,SNOMED,449369001,Stopped***REMOVED***smoking***REMOVED***before***REMOVED***pregnancy***REMOVED***(finding)
+pregnancy,SNOMED,459167000,Monochorionic***REMOVED***twin***REMOVED***pregnancy***REMOVED***(disorder)
+pregnancy,SNOMED,37618003,Chronic***REMOVED***hypertension***REMOVED***complicating***REMOVED***AND/OR***REMOVED***reason***REMOVED***for***REMOVED***care***REMOVED***during***REMOVED***pregnancy***REMOVED***(disorder)
+pregnancy,SNOMED,199227004,Diabetes***REMOVED***mellitus***REMOVED***during***REMOVED***pregnancy***REMOVED***-***REMOVED***baby***REMOVED***not***REMOVED***yet***REMOVED***delivered***REMOVED***(disorder)
+pregnancy,SNOMED,10749871000119100,Malignant***REMOVED***neoplastic***REMOVED***disease***REMOVED***in***REMOVED***pregnancy***REMOVED***(disorder)
+pregnancy,SNOMED,171054004,Pregnancy***REMOVED***diet***REMOVED***education***REMOVED***(procedure)
+pregnancy,SNOMED,71874008,Benign***REMOVED***essential***REMOVED***hypertension***REMOVED***complicating***REMOVED***AND/OR***REMOVED***reason***REMOVED***for***REMOVED***care***REMOVED***during***REMOVED***childbirth***REMOVED***(disorder)
+pregnancy,SNOMED,237227006,Congenital***REMOVED***heart***REMOVED***disease***REMOVED***in***REMOVED***pregnancy***REMOVED***(disorder)
+pregnancy,SNOMED,449368009,Stopped***REMOVED***smoking***REMOVED***during***REMOVED***pregnancy***REMOVED***(finding)
+prostate_cancer,SNOMED,126906006,Neoplasm of prostate
+pregnancy,SNOMED,198952001,"Renal***REMOVED***hypertension***REMOVED***complicating***REMOVED***pregnancy,***REMOVED***childbirth***REMOVED***and***REMOVED***the***REMOVED***puerperium***REMOVED***-***REMOVED***delivered***REMOVED***with***REMOVED***postnatal***REMOVED***complication***REMOVED***(disorder)"
+pregnancy,SNOMED,198944004,"Benign***REMOVED***essential***REMOVED***hypertension***REMOVED***complicating***REMOVED***pregnancy,***REMOVED***childbirth***REMOVED***and***REMOVED***the***REMOVED***puerperium***REMOVED***-***REMOVED***delivered***REMOVED***(disorder)"
+pregnancy,SNOMED,413567003,Aplastic***REMOVED***anemia***REMOVED***associated***REMOVED***with***REMOVED***pregnancy***REMOVED***(disorder)
+pregnancy,SNOMED,16356006,Multiple***REMOVED***pregnancy***REMOVED***(disorder)
+pregnancy,SNOMED,198947006,"Benign***REMOVED***essential***REMOVED***hypertension***REMOVED***complicating***REMOVED***pregnancy,***REMOVED***childbirth***REMOVED***and***REMOVED***the***REMOVED***puerperium***REMOVED***with***REMOVED***postnatal***REMOVED***complication***REMOVED***(disorder)"
+pregnancy,SNOMED,10753491000119101,Gestational***REMOVED***diabetes***REMOVED***mellitus***REMOVED***in***REMOVED***childbirth***REMOVED***(disorder)
+pregnancy,SNOMED,65147003,Twin***REMOVED***pregnancy***REMOVED***(disorder)
+pregnancy,SNOMED,77386006,Pregnant***REMOVED***(finding)
+pregnancy,SNOMED,10757401000119104,Pre-existing***REMOVED***hypertensive***REMOVED***heart***REMOVED***and***REMOVED***chronic***REMOVED***kidney***REMOVED***disease***REMOVED***in***REMOVED***mother***REMOVED***complicating***REMOVED***childbirth***REMOVED***(disorder)
+pregnancy,SNOMED,59733002,Hypertensive***REMOVED***heart***REMOVED***disease***REMOVED***complicating***REMOVED***AND/OR***REMOVED***reason***REMOVED***for***REMOVED***care***REMOVED***during***REMOVED***childbirth***REMOVED***(disorder)
+pregnancy,SNOMED,199005000,"Pre-existing***REMOVED***hypertension***REMOVED***complicating***REMOVED***pregnancy,***REMOVED***childbirth***REMOVED***and***REMOVED***puerperium***REMOVED***(disorder)"
+pregnancy,SNOMED,10809101000119109,Hypothyroidism***REMOVED***in***REMOVED***childbirth***REMOVED***(disorder)
+pregnancy,SNOMED,118781000119108,Pre-existing***REMOVED***hypertensive***REMOVED***chronic***REMOVED***kidney***REMOVED***disease***REMOVED***in***REMOVED***mother***REMOVED***complicating***REMOVED***pregnancy***REMOVED***(disorder)
+pregnancy,SNOMED,65402008,Pre-existing***REMOVED***hypertension***REMOVED***complicating***REMOVED***AND/OR***REMOVED***reason***REMOVED***for***REMOVED***care***REMOVED***during***REMOVED***pregnancy***REMOVED***(disorder)
+pregnancy,SNOMED,956971000000108,Pertussis***REMOVED***vaccination***REMOVED***in***REMOVED***pregnancy***REMOVED***given***REMOVED***by***REMOVED***other***REMOVED***healthcare***REMOVED***provider***REMOVED***(finding)
+prostate_cancer,SNOMED,399068003,Malignant tumor of prostate (disorder)
+pregnancy,SNOMED,198942000,"Benign***REMOVED***essential***REMOVED***hypertension***REMOVED***complicating***REMOVED***pregnancy,***REMOVED***childbirth***REMOVED***and***REMOVED***the***REMOVED***puerperium***REMOVED***(disorder)"
+pregnancy,SNOMED,76751001,"Diabetes***REMOVED***mellitus***REMOVED***in***REMOVED***mother***REMOVED***complicating***REMOVED***pregnancy,***REMOVED***childbirth***REMOVED***AND/OR***REMOVED***puerperium***REMOVED***(disorder)"
+pregnancy,SNOMED,526961000000105,Pregnancy***REMOVED***advice***REMOVED***for***REMOVED***patients***REMOVED***with***REMOVED***epilepsy***REMOVED***(procedure)
+pregnancy,SNOMED,171055003,Pregnancy***REMOVED***smoking***REMOVED***education***REMOVED***(procedure)
+pregnancy,SNOMED,199008003,"Pre-existing***REMOVED***secondary***REMOVED***hypertension***REMOVED***complicating***REMOVED***pregnancy,***REMOVED***childbirth***REMOVED***and***REMOVED***puerperium***REMOVED***(disorder)"
+pregnancy,SNOMED,10746341000119109,Acquired***REMOVED***immune***REMOVED***deficiency***REMOVED***syndrome***REMOVED***complicating***REMOVED***childbirth***REMOVED***(disorder)
+pregnancy,SNOMED,10759351000119103,Sickle***REMOVED***cell***REMOVED***anemia***REMOVED***in***REMOVED***mother***REMOVED***complicating***REMOVED***childbirth***REMOVED***(disorder)
+pregnancy,SNOMED,449345000,Smoked***REMOVED***before***REMOVED***confirmation***REMOVED***of***REMOVED***pregnancy***REMOVED***(finding)
+pregnancy,SNOMED,91923005,Acquired***REMOVED***immunodeficiency***REMOVED***syndrome***REMOVED***virus***REMOVED***infection***REMOVED***associated***REMOVED***with***REMOVED***pregnancy***REMOVED***(disorder)
+pregnancy,SNOMED,91948008,Asymptomatic***REMOVED***human***REMOVED***immunodeficiency***REMOVED***virus***REMOVED***infection***REMOVED***in***REMOVED***pregnancy***REMOVED***(disorder)
+prostate_cancer,SNOMED,369777009,Gleason Score 8-10: Poorly differentiated
+pregnancy,SNOMED,314204000,Early***REMOVED***stage***REMOVED***of***REMOVED***pregnancy***REMOVED***(finding)
+pregnancy,SNOMED,198945003,"Benign***REMOVED***essential***REMOVED***hypertension***REMOVED***complicating***REMOVED***pregnancy,***REMOVED***childbirth***REMOVED***and***REMOVED***the***REMOVED***puerperium***REMOVED***-***REMOVED***delivered***REMOVED***with***REMOVED***postnatal***REMOVED***complication***REMOVED***(disorder)"
+pregnancy,SNOMED,198953006,"Renal***REMOVED***hypertension***REMOVED***complicating***REMOVED***pregnancy,***REMOVED***childbirth***REMOVED***and***REMOVED***the***REMOVED***puerperium***REMOVED***-***REMOVED***not***REMOVED***delivered***REMOVED***(disorder)"
+pregnancy,SNOMED,459171002,Monochorionic***REMOVED***monoamniotic***REMOVED***twin***REMOVED***pregnancy***REMOVED***(disorder)
+pregnancy,SNOMED,171057006,Pregnancy***REMOVED***alcohol***REMOVED***education***REMOVED***(procedure)
+pregnancy,SNOMED,198946002,"Benign***REMOVED***essential***REMOVED***hypertension***REMOVED***complicating***REMOVED***pregnancy,***REMOVED***childbirth***REMOVED***and***REMOVED***the***REMOVED***puerperium***REMOVED***-***REMOVED***not***REMOVED***delivered***REMOVED***(disorder)"
+pregnancy,SNOMED,10231000132102,In-vitro***REMOVED***fertilization***REMOVED***pregnancy***REMOVED***(finding)
+pregnancy,SNOMED,428165003,Hypothyroidism***REMOVED***in***REMOVED***pregnancy***REMOVED***(disorder)
+pregnancy,SNOMED,713575004,Dizygotic***REMOVED***twin***REMOVED***pregnancy***REMOVED***(disorder)
+pregnancy,SNOMED,199006004,"Pre-existing***REMOVED***hypertensive***REMOVED***heart***REMOVED***disease***REMOVED***complicating***REMOVED***pregnancy,***REMOVED***childbirth***REMOVED***and***REMOVED***the***REMOVED***puerperium***REMOVED***(disorder)"
+pregnancy,SNOMED,23717007,Benign***REMOVED***essential***REMOVED***hypertension***REMOVED***complicating***REMOVED***AND/OR***REMOVED***reason***REMOVED***for***REMOVED***care***REMOVED***during***REMOVED***pregnancy***REMOVED***(disorder)
+pregnancy,SNOMED,10562009,Malignant***REMOVED***hypertension***REMOVED***complicating***REMOVED***AND/OR***REMOVED***reason***REMOVED***for***REMOVED***care***REMOVED***during***REMOVED***childbirth***REMOVED***(disorder)
+pregnancy,SNOMED,444661007,High***REMOVED***risk***REMOVED***pregnancy***REMOVED***due***REMOVED***to***REMOVED***history***REMOVED***of***REMOVED***preterm***REMOVED***labor***REMOVED***(finding)
+pregnancy,SNOMED,1109951000000101,Pregnancy***REMOVED***insufficiently***REMOVED***advanced***REMOVED***for***REMOVED***reliable***REMOVED***antenatal***REMOVED***screening***REMOVED***(finding)
+pregnancy,SNOMED,609563008,Pre-existing***REMOVED***diabetes***REMOVED***mellitus***REMOVED***in***REMOVED***pregnancy***REMOVED***(disorder)
+pregnancy,SNOMED,169508004,"Pregnant,***REMOVED***sheath***REMOVED***failure***REMOVED***(finding)"
+pregnancy,SNOMED,80997009,Quintuplet***REMOVED***pregnancy***REMOVED***(disorder)
+pregnancy,SNOMED,527041000000108,Pregnancy***REMOVED***advice***REMOVED***for***REMOVED***patients***REMOVED***with***REMOVED***epilepsy***REMOVED***not***REMOVED***indicated***REMOVED***(situation)
+pregnancy,SNOMED,10742121000119104,Asthma***REMOVED***in***REMOVED***mother***REMOVED***complicating***REMOVED***childbirth***REMOVED***(disorder)
+pregnancy,SNOMED,459168005,Monochorionic***REMOVED***diamniotic***REMOVED***twin***REMOVED***pregnancy***REMOVED***(disorder)
+pregnancy,SNOMED,169565003,Pregnant***REMOVED***-***REMOVED***planned***REMOVED***(finding)
+pregnancy,SNOMED,10757481000119107,Pre-existing***REMOVED***hypertensive***REMOVED***heart***REMOVED***and***REMOVED***chronic***REMOVED***kidney***REMOVED***disease***REMOVED***in***REMOVED***mother***REMOVED***complicating***REMOVED***pregnancy***REMOVED***(disorder)
+pregnancy,SNOMED,40801000119106,Gestational***REMOVED***diabetes***REMOVED***mellitus***REMOVED***complicating***REMOVED***pregnancy***REMOVED***(disorder)
+pregnancy,SNOMED,956951000000104,Pertussis***REMOVED***vaccination***REMOVED***in***REMOVED***pregnancy***REMOVED***(procedure)
+pregnancy,SNOMED,240154002,Idiopathic***REMOVED***osteoporosis***REMOVED***in***REMOVED***pregnancy***REMOVED***(disorder)
+pregnancy,SNOMED,10759031000119106,Pre-existing***REMOVED***hypertensive***REMOVED***heart***REMOVED***disease***REMOVED***in***REMOVED***mother***REMOVED***complicating***REMOVED***pregnancy***REMOVED***(disorder)
+pregnancy,SNOMED,609564002,Pre-existing***REMOVED***type***REMOVED***1***REMOVED***diabetes***REMOVED***mellitus***REMOVED***in***REMOVED***pregnancy***REMOVED***(disorder)
+pregnancy,SNOMED,609566000,Pregnancy***REMOVED***and***REMOVED***type***REMOVED***1***REMOVED***diabetes***REMOVED***mellitus***REMOVED***(disorder)
+prostate_cancer,SNOMED,176106009,Radical cystoprostatourethrectomy
+pregnancy,SNOMED,26078007,Hypertension***REMOVED***secondary***REMOVED***to***REMOVED***renal***REMOVED***disease***REMOVED***complicating***REMOVED***AND/OR***REMOVED***reason***REMOVED***for***REMOVED***care***REMOVED***during***REMOVED***childbirth***REMOVED***(disorder)
+pregnancy,SNOMED,88144003,Removal***REMOVED***of***REMOVED***ectopic***REMOVED***interstitial***REMOVED***uterine***REMOVED***pregnancy***REMOVED***requiring***REMOVED***total***REMOVED***hysterectomy***REMOVED***(procedure)
+pregnancy,SNOMED,866641000000105,Pertussis***REMOVED***vaccination***REMOVED***in***REMOVED***pregnancy***REMOVED***declined***REMOVED***(situation)
+pregnancy,SNOMED,169562000,Pregnant***REMOVED***-***REMOVED***vaginal***REMOVED***examination***REMOVED***confirms***REMOVED***(finding)
+pregnancy,SNOMED,198954000,"Renal***REMOVED***hypertension***REMOVED***complicating***REMOVED***pregnancy,***REMOVED***childbirth***REMOVED***and***REMOVED***the***REMOVED***puerperium***REMOVED***with***REMOVED***postnatal***REMOVED***complication***REMOVED***(disorder)"
+pregnancy,SNOMED,48552006,Hypertension***REMOVED***secondary***REMOVED***to***REMOVED***renal***REMOVED***disease***REMOVED***complicating***REMOVED***AND/OR***REMOVED***reason***REMOVED***for***REMOVED***care***REMOVED***during***REMOVED***pregnancy***REMOVED***(disorder)
+pregnancy,SNOMED,198951008,"Renal***REMOVED***hypertension***REMOVED***complicating***REMOVED***pregnancy,***REMOVED***childbirth***REMOVED***and***REMOVED***the***REMOVED***puerperium***REMOVED***-***REMOVED***delivered***REMOVED***(disorder)"
+pregnancy,SNOMED,237239003,Low***REMOVED***risk***REMOVED***pregnancy***REMOVED***(finding)
+pregnancy,SNOMED,20753005,Hypertensive***REMOVED***heart***REMOVED***disease***REMOVED***complicating***REMOVED***AND/OR***REMOVED***reason***REMOVED***for***REMOVED***care***REMOVED***during***REMOVED***pregnancy***REMOVED***(disorder)
+pregnancy,SNOMED,527131000000100,Pregnancy***REMOVED***advice***REMOVED***for***REMOVED***patients***REMOVED***with***REMOVED***epilepsy***REMOVED***declined***REMOVED***(situation)
+pregnancy,SNOMED,169566002,Pregnant***REMOVED***-***REMOVED***unplanned***REMOVED***-***REMOVED***wanted***REMOVED***(finding)
+prostate_cancer,SNOMED,81232004,Radical cystoprostatectomy

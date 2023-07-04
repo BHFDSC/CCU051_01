@@ -1,0 +1,18 @@
+code,name,terminology,term,value
+6497000,BMI,SNOMED,Decreased body mass index (finding),null
+162863004,BMI,SNOMED,Body mass index 25-29 - overweight (finding),null
+412768003,BMI,SNOMED,Body mass index 20-24 - normal (finding),null
+914731000000107,BMI,SNOMED,Obese class II (body mass index 35.0 - 39.9) (finding),null
+301331008,BMI,SNOMED,Finding of body mass index (finding),null
+60621009,BMI,SNOMED,Body mass index (observable entity),null
+35425004,BMI,SNOMED,Normal body mass index (finding),null
+427090001,BMI,SNOMED,Body mass index less than 16.5 (finding),null
+48499001,BMI,SNOMED,Increased body mass index (finding),null
+162864005,BMI,SNOMED,Body mass index 30+ - obesity (finding),null
+914741000000103,BMI,SNOMED,Obese class III (body mass index equal to or greater than 40.0) (finding),null
+914721000000105,BMI,SNOMED,Obese class I (body mass index 30.0 - 34.9) (finding),null
+408512008,BMI,SNOMED,Body mass index 40+ - severely obese (finding),null
+310252000,BMI,SNOMED,Body mass index less than 20 (finding),null
+722595002,BMI,SNOMED,Overweight in adulthood with body mass index of 25 or more but less than 30 (finding),null
+1300561000000107,CEV,SNOMED,High risk category for developing complication from coronavirus disease 19 caused by severe acute respiratory syndrome coronavirus 2 infection (finding),1 High
+846931000000101,BMI,SNOMED,Baseline body mass index (observable entity),null
