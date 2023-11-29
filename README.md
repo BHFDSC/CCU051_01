@@ -11,8 +11,8 @@ The BHF Data Science Centre supported access to the English data only for this p
 
 ## Contents
 
-* [View the analysis code used in NHS England's TRE for England](https://github.com/BHFDSC/CCU051_01/tree/main/code)
-* [View the phenotyping algorithms and codelists used in NHS England's TRE for England](https://github.com/BHFDSC/CCU051_01/tree/main/phenotypes)
+* [View the analysis code used in NHS England's SDE for England](https://github.com/BHFDSC/CCU051_01/tree/main/code)
+* [View the phenotyping algorithms and codelists used in NHS England's SDE for England](https://github.com/BHFDSC/CCU051_01/tree/main/phenotypes)
 * [View the analysis code and phenotypes used in the Safe Haven](https://github.com/HDRUK/COALESCE)
 * View the analysis code and phenotypes used in the SAIL Databank
 
