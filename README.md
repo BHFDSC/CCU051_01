@@ -7,7 +7,7 @@ Receiving fewer than the recommended number of SARS-CoV-2 vaccines doses (under-
 The BHF Data Science Centre supported access to the English data only for this project.
 
 ## How to cite this work
-> Citation details to follow
+> HDR UK COALESCE Consortium. Undervaccination and severe COVID-19 outcomes: meta-analysis of national cohort studies in England, Northern Ireland, Scotland, and Wales. Lancet. 2024;403(10426):554-566. https://doi.org/10.1016/S0140-6736(23)02467-4
 
 ## Contents
 
