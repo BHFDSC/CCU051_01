@@ -236,7 +236,7 @@ gdppr
 counts (gdppr)
   N(rows)                                     =  9,595,695,580
   N(non-missing NHS_NUMBER_DEID)              =  9,595,695,580
-  N(non-missing and distinct NHS_NUMBER_DEID) =     
+  N(non-missing and distinct NHS_NUMBER_DEID) =  63,404,470   
 
       archived_on              N    PCT
 0      2022-12-31  9,595,695,580  100.0
